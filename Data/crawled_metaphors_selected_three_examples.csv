@@ -1,0 +1,448 @@
+;Source Domain;Target Domain;Title;Metaphor;Example
+2;moving object;force;A Force Is A Moving Object;The Object May Have An Intention;Greed is the strongest evil force at work in the world today.
+7;moving object;force;A Force Is A Moving Object;The Object Can Hold/control The Affected Party;The force of his hypnotic words had me in its grip.
+8;moving object;force;A Force Is A Moving Object;The Strength Of The Object Determines Its Ability To Affect Affected Party.;The force of gravity on the moon is much weaker.
+11;body of water;problem;A Problem Is A Body Of Water;Investigating Problem Is Exploring Water;He dived right into the problem.
+14;body of water;problem;A Problem Is A Body Of Water;Difficulty In Solving Is Difficulty In Exploring Water;The murky waters of the investigation frustrated him.
+16;body of water;problem;A Problem Is A Body Of Water;Trying To Solve Is Looking For Object In Water;He kept coming up empty.
+20;container;problem solving;A Problem Is A Locked Container For Its Solution;Solving A Problem Involves Opening An Object;The detective set out to crack the case.
+22;container;problem solving;A Problem Is A Locked Container For Its Solution;Means To Solving Is Means To Opening;He finally found the key to the problem.
+25;container;problem solving;A Problem Is A Locked Container For Its Solution;Discovered Solution Is Removed From Container;The truth finally came out.
+29;location;problem;A Problem Is A Region In A Landscape;Investigating A Problem Is Exploring A Landscape;Let's map out the problem before we do anything else.
+30;location;problem;A Problem Is A Region In A Landscape;Trying To Solve A Problem Is Looking For Solution In The Landscape;I think we're headed in the right direction.
+31;location;problem;A Problem Is A Region In A Landscape;Trying To Solve A Problem Is Looking For Solution In The Landscape;How close are we to finding a solution?
+35;path;problem;A Problem Is A Region In A Landscape;(a.k.a. Reasoning is Following a Path, Thinking is Moving);Let's follow this line of thinking.
+38;path;problem;A Problem Is A Region In A Landscape;(a.k.a. Reasoning is Following a Path, Thinking is Moving);Let's get our thinking back on track.
+55;moving object;schedule;A Schedule Is A Moving Object;A Schedule Is A Moving Object;He finally caught up to schedule.
+56;moving object;schedule;A Schedule Is A Moving Object;A Schedule Is A Moving Object;Then he got ahead of schedule.
+57;moving object;schedule;A Schedule Is A Moving Object;A Schedule Is A Moving Object;The class was trying to keep up with the schedule.
+72;motion;action;Action Is Self-propelled Motion;Easy Action Is Easy Motion;It is smooth sailing from here on in in the application process.
+76;motion;action;Action Is Self-propelled Motion;Action Is Self-propelled Motion;He successfully navigated her way through the contract negotiations.
+77;motion;action;Action Is Self-propelled Motion;Manner Of Action Is Manner Of Motion;We slogged through the application process.
+91;goal;final state;Action Is Self-propelled Motion;Final States Are Final Locations;I ended up exhausted.
+92;goal;final state;Action Is Self-propelled Motion;Final States Are Final Locations;He's headed for an early death.
+93;goal;final state;Action Is Self-propelled Motion;Final States Are Final Locations;His reckless investments are taking him into backruptcy.
+97;motion;progress;Action Is Self-propelled Motion;Progress Is Forward Movement;Let's keep moving forward on this experiment.
+98;motion;progress;Action Is Self-propelled Motion;Progress Is Forward Motion;Things are at a standstill.
+99;motion;progress;Action Is Self-propelled Motion;Negative Progress Is Backward Movement;We need to backtrack on this problem.
+100;goal;success;Action Is Self-propelled Motion;Progress Is Measured In Distance To Destination Or In Distance From Starting Point;She finally reached the end of the dissertation-writing process.
+101;goal;success;Action Is Self-propelled Motion;Progress Is Measured In Distance To Destination Or In Distance From Starting Point;After working on the application for days, I finally saw the light at the end of the tunnel.
+102;goal;success;Action Is Self-propelled Motion;Progress Is Measured In Distance To Destination Or In Distance From Starting Point;We only have a short ways to go on solving this puzzle.
+106;goal;success;Action Is Self-propelled Motion;Progress Is Measured In Distance To Destination Or In Distance From Starting Point;We've made it this far in our efforts to solve the problem.
+117;direction;purpose;Action Is Self-propelled Motion;Lack Of Purpose Is Lack Of Direction;He is just floating around.
+119;direction;purpose;Action Is Self-propelled Motion;Lack Of Purpose Is Lack Of Direction;He needs some direction.
+120;direction;purpose;Action Is Self-propelled Motion;Lack Of Purpose Is Lack Of Direction;She is a drifter with no direction.
+136;goal;end of action;Action Is Self-propelled Motion;The End Of Action Is The End Of The Path;We are reaching the end of the house-buying process.
+137;goal;end of action;Action Is Self-propelled Motion;The End Of Action Is The End Of The Path;Finally, all my educational goals are in reach.
+138;goal;end of action;Action Is Self-propelled Motion;The End Of Action Is The End Of The Path;We are entering the last stages of filing for bankrupcy.
+197;alive;active;Active Is Alive;Active Is Alive;The party was really alive
+198;alive;active;Active Is Alive;Active Is Alive;The club seems dead tonight
+199;alive;active;Active Is Alive;Active Is Alive;Lively, liven (lexical examples)
+201;warmth;affection;Affection Is Warmth;Affection Is Warmth;They gave me a warm welcome.
+202;warmth;affection;Affection Is Warmth;Affection Is Warmth;He took a while to warm up to me.
+207;heat;anger;Anger Is Heat;Anger Is Heat;She's a real hothead.
+211;heat;anger;Anger Is Heat;ANGER IS HEAT and BODY IS CONTAINER FOR EMOTIONS;He's just blowing off steam.
+219;heat;anger;Anger Is Heat;ANGER IS HEAT and BODY IS CONTAINER FOR EMOTIONS;His eyes smouldered with rage.
+225;beings;beliefs;Beliefs Are Beings With A Life Cycle;Beliefs Are Beings With A Life Cycle;The belief lives on.
+226;beings;beliefs;Beliefs Are Beings With A Life Cycle;Beliefs Are Beings With A Life Cycle;That belief died out years ago.
+227;beings;beliefs;Beliefs Are Beings With A Life Cycle;Beliefs Are Beings With A Life Cycle;That belief was born of the early philosophers.
+228;plants;beliefs;Beliefs Are Beings With A Life Cycle;Development Of A Belief Is Growth Of A Plant;This is just the seed of a belief.
+232;plants;beliefs;Beliefs Are Beings With A Life Cycle;Development Of A Belief Is Growth Of A Plant;This belief has taken root in my mind.
+233;plants;beliefs;Beliefs Are Beings With A Life Cycle;Development Of A Belief Is Growth Of A Plant;This is a flourishing belief in this culture.'
+234;plants;beliefs;Beliefs Are Beings With A Life Cycle;Development Of A Belief Is Growth Of A Plant;I planted the belief in his mind.
+240;guides;beliefs;Beliefs Are Guides;Beliefs Are Guides;You are governed by your beliefs.
+242;guides;beliefs;Beliefs Are Guides;Beliefs Are Guides;There are misleading beliefs.
+244;guides;beliefs;Beliefs Are Guides;Beliefs Are Guides;You go by your beliefs.
+246;lovers;beliefs;Beliefs Are Love Objects;Considering Believing Is Considering Entering A Relationship;He flirted with a belief in utter hedonism in his youth.
+247;lovers;beliefs;Beliefs Are Love Objects;Accepting A Belief Is Entering A Relationship;He embraced that belief wholeheartedly.
+250;lovers;beliefs;Beliefs Are Love Objects;A Tempting Belief Is A Tempting Possible Partner;That's a seductive belief.
+264;possessions;beliefs;Beliefs Are Possessions;Beliefs Are Possessions;She clings to his beliefs.
+266;possessions;beliefs;Beliefs Are Possessions;Beliefs Are Possessions;He acquired most of his beliefs during childhood.
+272;possessions;beliefs;Beliefs Are Possessions;Deciding To Believe Is Deciding To Acquire A Possession;I briefly toyed with a belief in a higher power.
+278;commodities;beliefs;Beliefs Are Possessions;Believing Is Owning Goods;She took inventory of her beliefs.
+279;commodities;beliefs;Beliefs Are Possessions;No Longer Believing Is Selling Out;He sold out his dearest beliefs.
+281;commodities;beliefs;Beliefs Are Possessions;Arguing For A Belief Is Trying To Sell It;I almost bought his line.
+313;money;causation;Causation Is Commercial Transaction;Having Beneficial Things Happen To One Is Getting Money;He profitted from experience.
+314;money;causation;Causation Is Commercial Transaction;Having Detrimental Things Happen To One Is Losing Money;He paid with his life for my mistake.
+318;money;causation;Causation Is Commercial Transaction;Causing Detrimental Effects Is Taking Money;Reckless skiing cost her a leg.
+326;motion;change;Change Is Motion (location);Change Is Motion (location);He went from innocent to worldly.
+328;motion;change;Change Is Motion (location);Change Is Motion (location);He slipped into a depression.
+329;motion;change;Change Is Motion (location);Change Is Motion (location);His hair went gray.
+341;replacement;change;Change Is Replacement;Change Is Replacement;After the experiment, the water was gone, and hydrogen and oxygen was in its place.
+342;replacement;change;Change Is Replacement;Change Is Replacement;Under hypnosis, the sweet old lady was replaced by a scheming criminal.
+343;replacement;change;Change Is Replacement;Change Is Replacement;The man I had known was gone, and in his place was an aging fool.
+351;whole;coherence;Coherent Is Whole;Coherent Is Whole;His thoughts are scattered.
+352;whole;coherence;Coherent Is Whole;Coherent Is Whole;The theory is all over the place.
+354;whole;coherence;Coherent Is Whole;Coherent Is Whole;I'm missing a piece of the puzzle.
+359;speech;communication;Communication Is Linguistic Communication;Communication Is Linguistic Communication;A picture is worth a thousand words.
+360;speech;communication;Communication Is Linguistic Communication;Communication Is Linguistic Communication;He gave me a look that spoke volumes.
+361;speech;communication;Communication Is Linguistic Communication;Communication Is Linguistic Communication;What does that painting say to you?
+368;writing;communication;Communication Is Linguistic Communication;Communication Is Linguistic Communication;His guilt was written all over his face.
+369;writing;communication;Communication Is Linguistic Communication;Communication Is Linguistic Communication;I read more into his actions than actually was there.
+371;writing;communication;Communication Is Linguistic Communication;Communication Is Linguistic Communication;Do I have to spell it out for you?
+378;scale;comparison;Comparison Of Properties Is Comparison Of Physical Properties;Comparison Of Properties Is Comparison Of Physical Properties;You have to weigh the pros and cons.
+379;scale;comparison;Comparison Of Properties Is Comparison Of Physical Properties;Comparison Of Properties Is Comparison Of Physical Properties;The scale just tipped in favor of my voting yes.
+383;scale;comparison;Comparison Of Properties Is Comparison Of Physical Properties;Comparison Of Properties Is Comparison Of Physical Properties;TV viewership is higher during prime time than daytime
+390;fight;competition;Competition Is 1 On 1 Physical Aggression;Competition Is 1 On 1 Physical Aggression;He clobbered me at tennis.
+391;fight;competition;Competition Is 1 On 1 Physical Aggression;Competition Is 1 On 1 Physical Aggression;I beat him at chess.
+396;fight;competition;Competition Is 1 On 1 Physical Aggression;Competition Is 1 On 1 Physical Aggression;Those swim teams have been slugging it out all season.
+397;race;competition;Competition Is A Race;Competition Is A Race;The arms race.
+398;race;competition;Competition Is A Race;Competition Is A Race;We've been playing chess for years, and he's finally pulling ahead of me.
+399;race;competition;Competition Is A Race;Competition Is A Race;He's a better writer than I am, and he's widening the distance.
+401;war;competition;Competition Is War;Competition Is War;The debate team brought out their big guns.
+403;war;competition;Competition Is War;Competition Is War;We took over the ball deep in their territory.
+404;war;competition;Competition Is War;Competition Is War;They battled each other over the chess board every week.
+405;adherence;compliance;Complience Is Adherence;Complience Is Adherence;He stuck by his word.
+406;adherence;compliance;Complience Is Adherence;Complience Is Adherence;He adhered to his contract.
+407;following;compliance;Complience Is Following;Complience Is Following;He went along with what he was told to do.
+408;following;compliance;Complience Is Following;Complience Is Following;He followed his orders.
+413;size;conceit;Conceit Is Inflation;Conceit Is Inflation;He's a stuffed shirt.
+414;size;conceit;Conceit Is Inflation;Conceit Is Inflation;She was puffed up with pride.
+415;size;conceit;Conceit Is Inflation;Conceit Is Inflation;He was becoming quite grandiose when I left.
+420;up;control;Control Is Up;Control Is Up;He is under my power.
+421;up;control;Control Is Up;Control Is Up;I'm on top of the situation.
+422;up;control;Control Is Up;Control Is Up;I have it all under control.
+433;plants;creation;Creation Is Cultivation;Creation Is Cultivation;He planted seeds of doubt in my mind.
+434;plants;creation;Creation Is Cultivation;Creation Is Cultivation;Money is the root of all evil.
+436;plants;creation;Creation Is Cultivation;Necessary Prerequisites Are Necessary Prerequisties For Plant Life;China is a fertile ground for revolt.
+438;disease;belief;Dangerous Beliefs Are Contagious Diseases;Dangerous Beliefs Are Contagious Diseases;the contagion of democratic ideas
+439;disease;belief;Dangerous Beliefs Are Contagious Diseases;Believers Are Infected;The children were infected with ideas about socialism.
+440;disease;belief;Dangerous Beliefs Are Contagious Diseases;Believers Are Infected;They quarantined the Japanese.
+442;cover;darkness;Darkness Is A Cover;Darkness Is A Cover;Under cover of darkness.
+443;cover;darkness;Darkness Is A Cover;Darkness Is A Cover;He was enveloped in darkness.
+444;cover;darkness;Darkness Is A Cover;Darkness Is A Cover;Darkness closed in over us.
+445;solid;darkness;Darkness Is A Solid;Darkness Is A Solid;The darkness was palpable.
+446;solid;darkness;Darkness Is A Solid;Darkness Is A Solid;We had to feel our way through the darkness.
+449;solid;darkness;Darkness Is A Solid;Darkness Is A Solid;Darkness pressed in on all sides.
+451;hunger;desire;Desire Is Hunger;Desire Is Hunger;He was drooling over her.
+453;hunger;desire;Desire Is Hunger;Desire Is Hunger;She thirsts for recognition.
+455;hunger;desire;Desire Is Hunger;Desire Is Hunger;He hungers for her touch.
+457;force;desire;Desires Are Forces Between The Desired And The Desirer;Desires Are Forces Between The Desired And The Desirer;They were drawn to each other.
+460;force;desire;Desires Are Forces Between The Desired And The Desirer;The Force May Be Within The Desirer;Something in me pulls me toward the wrong kind of man.
+462;force;desire;Desires Are Forces Between The Desired And The Desirer;Sexuality Is A Force Between Desired And Desirer.;I could feel the electricity between us.
+468;adversary;difficult subjects;Difficult Subjects Are Adversaries;Difficult Subjects Are Adversaries;I thought it was a tame course, but it turned into a bear.
+472;adversary;difficult subjects;Difficult Subjects Are Adversaries;Understanding/learning Is Gaining Physical Control Over The Material;She wasn't able to tackle all the material, so he stayed behind.
+473;adversary;difficult subjects;Difficult Subjects Are Adversaries;Understanding/learning Is Gaining Physical Control Over The Material;He successfully conquered the material.
+475;container;difficulties;Difficulties Are Containers;Difficulties Are Containers;How did I get myself into this situation?
+476;container;difficulties;Difficulties Are Containers;Difficulties Are Containers;We're in this thing together.
+477;container;difficulties;Difficulties Are Containers;Difficulties Are Containers;How do we get out of this situation?
+483;nausea;disgust;Disgust Is Nausea;Disgust Is Nausea;You make me sick!
+484;nausea;disgust;Disgust Is Nausea;Disgust Is Nausea;His behavior made me want to throw up.
+485;nausea;disgust;Disgust Is Nausea;Disgust Is Nausea;She's a nauseating person.
+486;change;disparity;Disparity Is Change;Disparity Is Change;The phone poles get taller as you approach the freeway.
+487;change;disparity;Disparity Is Change;Disparity Is Change;His girlfriends keep getting taller.
+488;change;disparity;Disparity Is Change;Disparity Is Change;The president changes every four years.
+491;injury;humor;Effects Of Humor Are Injuries;Effects Of Humor Are Injuries;The comedian knocked them over.
+494;injury;humor;Effects Of Humor Are Injuries;Effects Of Humor Are Injuries;That joke really slayed me.
+495;injury;humor;Effects Of Humor Are Injuries;Effects Of Humor Are Injuries;She nearly died of laughter.
+497;motion;emotion;Emotion Is Motion;Emotion Is Motion;I was moved by the poem.
+498;motion;emotion;Emotion Is Motion;Emotion Is Motion;I went into transports of joy.
+499;motion;emotion;Emotion Is Motion;Emotion Is Motion;You send me.
+500;closeness;intimacy;Emotional Intimacy Is Physical Closeness;Emotional Intimacy Is Physical Closeness;I feel close to him.
+503;closeness;intimacy;Emotional Intimacy Is Physical Closeness;Emotional Intimacy Is Physical Closeness;He keeps everyone at arms length.
+513;closeness;intimacy;Emotional Intimacy Is Physical Closeness;Change Toward Emotional Intimacy Is Movement Toward Physical Closeness;We're drifting apart.
+535;object;emotion;Emotional Self Is A Brittle Object;Emotional Self Is A Brittle Object;She was shattered by his death.
+537;object;emotion;Emotional Self Is A Brittle Object;Emotional Self Is A Brittle Object;He broke down in tears.
+540;object;emotion;Emotional Self Is A Brittle Object;Emotional Self Is A Brittle Object;She fell apart.
+546;grounding;emotion stability;Emotional Stability Is Contact With The Ground;Emotional Stability Is Contact With The Ground;She has her feet on the ground.
+548;grounding;emotion stability;Emotional Stability Is Contact With The Ground;Emotional Stability Is Contact With The Ground;He felt uprooted.
+550;grounding;emotion stability;Emotional Stability Is Contact With The Ground;Emotional Stability Is Contact With The Ground;I'm up in the air.
+570;force;emotion;Emotions Are Forces;Emotions Are Physical Forces;I was moved by the poem.
+571;force;emotion;Emotions Are Forces;Emotions Are Physical Forces;I was pushed into depression.
+572;force;emotion;Emotions Are Forces;Emotions Are Physical Forces;She was carried away by the song.
+578;up;euphoria;Euphoric States Are Up;Euphoric States Are Up;He's really high.
+579;up;euphoria;Euphoric States Are Up;Euphoric States Are Up;She's coming down
+581;location;existence;Existence Is A Location (here);Existence Is A Location (here);It came into existence.
+583;location;existence;Existence Is A Location (here);Existence Is A Location (here);The baby is due any day.
+587;location;existence;Existence Is A Location (here);Existence Is A Location (here);The question simply doesn't arise here.
+598;visibility;existence;Existence Is Visibility;Existence Is Visibility;New problems keep appearing.
+599;visibility;existence;Existence Is Visibility;Existence Is Visibility;Suddenly my headache vanished.
+601;visibility;existence;Existence Is Visibility;Existence Is Visibility;The controversy eventually faded away.
+605;cover;facial expression;External Appearance Is A Cover;Facial Expressions Are Covers;Wipe that smile off your face.
+606;cover;facial expression;External Appearance Is A Cover;Facial Expressions Are Covers;Put on a happy face.
+611;cover;facial expression;External Appearance Is A Cover;Facial Expressions Are Covers;The disquiteting expression was lifted from her face.
+623;weather;adversity;External Conditions Are Climate;External Conditions Are Climate;The climate is right for a takeover.
+624;weather;adversity;External Conditions Are Climate;External Conditions Are Climate;The economic forecast is favorable.
+625;weather;adversity;External Conditions Are Climate;External Conditions Are Climate;It rained on my parade.
+637;cold;fear;Fear Is Cold;Fear Is Cold;He had cold feet
+638;cold;fear;Fear Is Cold;Fear Is Cold;Her blood ran cold
+639;cold;fear;Fear Is Cold;Fear Is Cold;A cold stab of fear went through me
+658;motion;shape;Form Is Motion;Form Is Motion;The tower leans.
+659;motion;shape;Form Is Motion;Form Is Motion;The road bends.
+660;motion;shape;Form Is Motion;Form Is Motion;The roof slopes down before it drops off steeply.
+663;competition;sex;Gaining Physical Intimacy (against Resistance) Is A Competition;Sex Is An Achievement;Did you score last night?
+664;competition;sex;Gaining Physical Intimacy (against Resistance) Is A Competition;Sex Is An Achievement;He couldn't get to first base with her.
+671;competition;sex;Gaining Physical Intimacy (against Resistance) Is A Competition;Sex Is An Achievement;She surrendered to him.
+673;eating;getting;Getting Is Eating;Getting Is Eating;Cough up the money you owe me!
+674;eating;getting;Getting Is Eating;Getting Is Eating;I've been feeding him funds illegally for a year.
+678;location;harm;Harm Is Being In A Harmful Location;Harm Is Being In A Harmful Location;I am in trouble.
+680;location;harm;Harm Is Being In A Harmful Location;Harm Is Being In A Harmful Location;He's on thin ice.
+684;location;harm;Harm Is Being In A Harmful Location;Being Harmed Is Being Forced To Move To A Harmful Location;They're driving me over the edge.
+685;destruction;harm;Harm Is Causing Functional Objects To Be Nonfunctional;Harm Is Causing Functional Objects To Be Nonfunctional;He crushed the rebellion.
+687;destruction;harm;Harm Is Causing Functional Objects To Be Nonfunctional;Harm Is Causing Functional Objects To Be Nonfunctional;The theory was cut to pieces.
+688;destruction;harm;Harm Is Causing Functional Objects To Be Nonfunctional;Harm Is Causing Functional Objects To Be Nonfunctional;She wrecked our marriage.
+693;possessions;harm;Harm Is Having A Harmful Possession;Being Harmed Is Being Given An Undesirable Possession;The noise gave him a headache.
+694;possessions;harm;Harm Is Having A Harmful Possession;Being Harmed Is Being Given An Undesirable Possession;My car gave me a lot of trouble yesterday.
+700;possessions;harm;Harm Is Lacking A Needed Possession;Harm Is Lacking A Needed Possession;If you don't have your health, what have you got?
+713;injury;harm;Harm Is Physical Injury;Restitution Is Healing;She recovered from the wound to her psyche, but scars remained.
+715;injury;harm;Harm Is Physical Injury;Restitution Is Healing;Americans can expect painful cutbacks with the recession.
+716;injury;harm;Harm Is Physical Injury;Restitution Is Healing;My stock portfolio is very healthy.
+727;prey;harm;Harm Is Physical Injury;Person In Situation Is The Prey;I feel like a little fish surrounded by sharks.
+728;prey;harm;Harm Is Physical Injury;Person In Situation Is The Prey;If that player goes in, he'll be dead meat!
+730;prey;harm;Harm Is Physical Injury;Person In Situation Is The Prey;The FBI lay in wait of their quarry for days.
+733;predators;competitors;Harm Is Physical Injury;Competators Or Antagonists Are Predators;I said one thing and they pounced on me like a pack of dingos.
+736;predators;competitors;Harm Is Physical Injury;A Difficult Situation Is Place Where Predation Occurs;You're moving into shark infested waters.
+737;predators;competitors;Harm Is Physical Injury;A Difficult Situation Is Place Where Predation Occurs;The conference room is a real snake pit today.
+746;path;harm;Harm Is Preventing Forward Motion Toward A Goal.;Reducing The Effect Of Future Harm Is Giving A Headstart;How am I supposed to learn anything if the school keeps placing roadblocks in my way?
+748;path;harm;Harm Is Preventing Forward Motion Toward A Goal.;Reducing The Effect Of Future Harm Is Giving A Headstart;Her accident was an enormous setback to her career.
+752;path;harm;Harm Is Preventing Forward Motion Toward A Goal.;Reducing The Effect Of Future Harm Is Giving A Headstart;It's hard to reach the top when you're saddled with an unwanted baby.
+762;possessions;hope;Hope Is A Benefical Possession;Being Hopeful/hopeless Is Having/not Having Hope;I've lost all hope of a solution.
+763;possessions;hope;Hope Is A Benefical Possession;Being Hopeful/hopeless Is Having/not Having Hope;He recovered his hopes for a peace on earth.
+770;possessions;hope;Hope Is A Benefical Possession;Strength Of Hope Is Strength Of An Object;Her hopes were crushed.
+774;light;hope;Hope Is Light;Hope Is Light;The clouds were a glimmer of hope that rain might come.
+775;light;hope;Hope Is Light;Hope Is Light;He has bright hopes.
+776;light;hope;Hope Is Light;Hope Is Light;I have a very dim hope that he'll recover.
+780;food;ideas;Ideas Are Food;Ideas Are Food;She gave us some brain food.
+783;food;ideas;Ideas Are Food;Thinking Is Preparing Food;Let me chew on that for a while.
+789;food;ideas;Ideas Are Food;Communication Is Feeding;We have a live satellite feed from London.
+803;motion;ideas;Ideas Are Locations;Thinking Is Manipulating An Object;I'm playing with the idea of a trip to Hawaii.
+804;motion;ideas;Ideas Are Locations;Thinking Is Moving In The Ideascape;Don't jump to conclusions.
+819;motion;ideas;Ideas Are Locations;Thinking Is Moving In The Ideascape;She's got a one-track mind
+823;object;ideas;Ideas Are Objects;Ideas Are Objects;Sally gave the idea to Sam.
+827;object;ideas;Ideas Are Objects;Ideas Are Objects;IBM bought the idea from him.
+835;container;ideas;Ideas Are Objects;The Mind Is A Container For Objects;I can't get this idea out of my mind.
+836;container;ideas;Ideas Are Objects;The Mind Is A Container For Objects;What did you have in mind?
+876;seeing;understanding;Ideas Are Perceptions;Understanding Is Seeing;Can you shed more light on this issue? I don't quite see what you are talking about.
+878;seeing;understanding;Ideas Are Perceptions;Understanding Is Seeing;She finally opened her eyes to what was going on around her.
+880;seeing;understanding;Ideas Are Perceptions;Understanding Is Seeing;He sees only what he wants to see.
+904;light;intelligence;Intelligence Is A Light Source;Intelligence Is A Light Source;He is very bright.
+905;light;intelligence;Intelligence Is A Light Source;Intelligence Is A Light Source;He can always shed light on the problem.
+906;light;intelligence;Intelligence Is A Light Source;Intelligence Is A Light Source;I always thought he was a little dim.
+907;heat;emotion;Intense Emotions Are Heat;Intense Emotions Are Heat;The crowd was all fired up.
+908;heat;emotion;Intense Emotions Are Heat;Intense Emotions Are Heat;He had a burning emotion.
+920;drowning;defeat;Interaction Between Progress And External Events Affecting;Being Defeated Is Drowning;I'm just trying to keep my head above water.
+921;drowning;defeat;Interaction Between Progress And External Events Affecting;Being Defeated Is Drowning;He's barely staying afloat.
+923;drowning;defeat;Interaction Between Progress And External Events Affecting;Being Defeated Is Drowning;Try not to get in over your head.
+943;musical harmony;relationship;Interpersonal Harmony Is Musical Harmony;Interpersonal Harmony Is Musical Harmony;They had a harmonious relationship.
+944;musical harmony;relationship;Interpersonal Harmony Is Musical Harmony;Interpersonal Harmony Is Musical Harmony;Those two are really in synch.
+945;musical harmony;relationship;Interpersonal Harmony Is Musical Harmony;Interpersonal Harmony Is Musical Harmony;They are out of tune with each other.
+947;electrification;intoxication;Intoxication Is Becoming Electrified;Intoxication Is Becoming Electrified;He was wired.
+948;electrification;intoxication;Intoxication Is Becoming Electrified;Intoxication Is Becoming Electrified;He was lit.
+950;burden;intoxication;Intoxication Is Getting A Burden;Intoxication Is Getting A Burden;She was loaded.
+951;burden;intoxication;Intoxication Is Getting A Burden;Intoxication Is Getting A Burden;She was tanked up.
+952;destruction;intoxication;Intoxication Is Getting Destroyed;Intoxication Is Getting Destroyed;He is stoned.
+953;destruction;intoxication;Intoxication Is Getting Destroyed;Intoxication Is Getting Destroyed;He is bombed.
+954;destruction;intoxication;Intoxication Is Getting Destroyed;Intoxication Is Getting Destroyed;He got thrashed.
+955;destruction;intoxication;Intoxication Is Getting Destroyed;Intoxication Is Getting Destroyed;He was wrecked.
+959;container;investment;Investments Are Containers For Money;Investments Are Containers For Money;Put your money in bonds.
+960;container;investment;Investments Are Containers For Money;Investments Are Containers For Money;The bottom of the economy dropped out.
+961;container;investment;Investments Are Containers For Money;Investments Are Containers For Money;I'm down to my bottom dollar.
+973;substance;laughter;Laughter Is A Substance;Potential Laughter Is A Substance Inside The Person;You can't get a single joke out of him.
+978;substance;laughter;Laughter Is A Substance;Laughter May Burst Forth From The Person;The audience was bursting with laughter.
+979;substance;laughter;Laughter Is A Substance;Laughter May Burst Forth From The Person;He was ripping with laughter.
+988;fluid;light;Light Is A Fluid;Light Is A Fluid;Sunlight poured into the room.
+990;fluid;light;Light Is A Fluid;Light Is A Fluid;He soaked up some sun.
+991;fluid;light;Light Is A Fluid;Light Is A Fluid;Pools of light were scattered across the clearing.
+996;line;light;Light Is A Line;Light Is A Line;rays of light
+999;line;light;Light Is A Line;Light Is A Line;Direct more light over here.
+1000;line;light;Light Is A Line;Light Is A Line;Where is that light coming from?
+1011;path;logic;Logical Relations Are Causal Relations;Logical Arguments Are Paths To Solutions;Follow your reasoning where it takes you.
+1013;path;logic;Logical Relations Are Causal Relations;Logical Arguments Are Paths To Solutions;This argument yields the following conclusions.
+1014;path;logic;Logical Relations Are Causal Relations;Logical Arguments Are Paths To Solutions;Does your reasoning give you the answer you wanted?
+1019;journey;life;Longterm Purposeful Activity Is A Journey;The Person Leading A Life Is A Traveler;I don't know where I'm headed, but I'm enjoying getting there.
+1020;journey;life;Longterm Purposeful Activity Is A Journey;The Person Leading A Life Is A Traveler;He just sails through life.
+1022;journey;life;Longterm Purposeful Activity Is A Journey;Longterm Purposes Are Journey Destinations;He's headed for great things.
+1041;journey;love;Love Is A Journey;Progress In The Relationship Is Forward Motion;They are at a crossroads in their relationship.
+1046;journey;love;Love Is A Journey;The Relationship Is A Moving Object.;This relationship has been spinning its wheels for years.
+1047;journey;love;Love Is A Journey;The Relationship Is A Moving Object.;Their marriage has really gone off the track.
+1048;part-whole;love;Love Is A Unity (of Two Complementary Parts);EMOTIONAL INTIMACY IS PHYSICAL CLOSENESS;We were made for each other.
+1049;part-whole;love;Love Is A Unity (of Two Complementary Parts);EMOTIONAL INTIMACY IS PHYSICAL CLOSENESS;We are one.
+1050;part-whole;love;Love Is A Unity (of Two Complementary Parts);EMOTIONAL INTIMACY IS PHYSICAL CLOSENESS;She is my better half.
+1052;magic;love;Love Is Magic;Love Is Magic;The magic is gone.
+1053;magic;love;Love Is Magic;Love Is Magic;She is bewitching.
+1056;magic;love;Love Is Magic;Love Is Magic;She charmed him.
+1057;possession;lover;Loved One Is A Possession;Loved One Is A Possession;My friend stole my loved one from me.
+1058;possession;lover;Loved One Is A Possession;Loved One Is A Possession;You're all I've got.
+1059;possession;lover;Loved One Is A Possession;Loved One Is A Possession;I'm going to get him back.
+1064;heat;lust;Lust Is Heat;INTENSE EMOTIONS ARE HEAT;I'm hot to trot.
+1065;heat;lust;Lust Is Heat;INTENSE EMOTIONS ARE HEAT;I'm burning with desire.
+1066;heat;lust;Lust Is Heat;Lack Of Lust Is Coldness;She was frigid.
+1067;machine;lust;Lustful Person Is An Activated Machine;Lustful Person Is An Activated Machine;You turn me on.
+1068;machine;lust;Lustful Person Is An Activated Machine;Lustful Person Is An Activated Machine;I've got my motor runnin', baby.
+1069;machine;lust;Lustful Person Is An Activated Machine;Lustful Person Is An Activated Machine;Turn my crank, baby.
+1071;animal;lust;Lustful Person Is An Animal;Lustful Person Is An Animal;He's a real wolf.
+1072;animal;lust;Lustful Person Is An Animal;Lustful Person Is An Animal;A tigress in bed.
+1073;animal;lust;Lustful Person Is An Animal;Lustful Person Is An Animal;He looks like he's ready to pounce.
+1098;accounting;thinking;Mental Accounting;Understanding The Causation Is Adding Up/figuring Out;I can put two and two together.
+1099;accounting;thinking;Mental Accounting;Understanding The Causation Is Adding Up/figuring Out;This adds up to trouble.
+1101;accounting;thinking;Mental Accounting;Explaining The Causation Is Accounting;How do you account for this fact?
+1105;object;mind;Mind, Or Mental Self Is A Brittle Object;Mind, Or Mental Self Is A Brittle Object;He cracked up.
+1106;object;mind;Mind, Or Mental Self Is A Brittle Object;Mind, Or Mental Self Is A Brittle Object;His mind snapped.
+1107;object;mind;Mind, Or Mental Self Is A Brittle Object;Mind, Or Mental Self Is A Brittle Object;He's mentally fragile.
+1111;liquid;money;Money Is A Liquid;Cash Is A Liquid;My money is all dried up.
+1114;liquid;money;Money Is A Liquid;Gain/loss Of Money Is Movement Of A Liquid;cash flow
+1116;liquid;money;Money Is A Liquid;Gain/loss Of Money Is Movement Of A Liquid;Don't pour your money down the drain.
+1130;accounting;morality;Moral Accounting;Doing Immoral Deeds Is Accumulating Debttaking Money From Society.;You have to pay for your mistakes.
+1132;accounting;morality;Moral Accounting;Benefitting Is Accumulating Debt.;I couldn't possibly repay your kindness.
+1133;accounting;morality;Moral Accounting;Moral Debt Can Be Paid Off With Moral Deedspaying Back The Money.;I'll make it up to everyone for what I've done.
+1162;cleanliness;morality;Morality Is Cleanliness;Morality Is Cleanliness;His reputation is besmirched.
+1163;cleanliness;morality;Morality Is Cleanliness;Morality Is Cleanliness;She doesn't want to get her hands dirty.
+1165;cleanliness;morality;Morality Is Cleanliness;Morality Is Cleanliness;The magazine got the dirt about him.
+1166;purity;morality;Morality Is Purity;Morality Is Purity;He is as pure as the driven snow.
+1167;purity;morality;Morality Is Purity;Morality Is Purity;She is of pure heart.
+1169;path;morality;Morality Is Straightness;Being Moral Is Being Straight.;I think he's being straight with me.
+1170;path;morality;Morality Is Straightness;Being Immoral Is Being Crooked.;He's a crooked businessman.
+1174;path;morality;Morality Is Straightness;Diverging From The Path Is Being Immoral.;She has strayed.
+1181;container;obligations;Obligations Are Containers;Obligations Are Containers;Can you get out of doing the dishes?
+1183;container;obligations;Obligations Are Containers;Obligations Are Containers;"Try to get out of those committments; don't let your boss box you in."
+1185;container;obligations;Obligations Are Containers;Obligations Are Containers;He trapped her into going with him.
+1197;possessions;obligations;Obligations Are Possessions;Obligations Are Burdens (on Shoulder Or Back);He's carrying a heavy load at work.
+1200;possessions;obligations;Obligations Are Possessions;Obligations Are Burdens (on Shoulder Or Back);He bears the responsibility for the success of this mission.
+1201;possessions;obligations;Obligations Are Possessions;Obligations Are Burdens (on Lap);I dumped that project in his lap.
+1211;children;obligations;Obligations Are Possessions;Obligations Are Children;The setting of salaries is his baby.
+1212;children;obligations;Obligations Are Possessions;Obligations Are Children;I thought you were going to take care of that problem.
+1213;children;obligations;Obligations Are Possessions;Obligations Are Children;He's been neglecting his duties.
+1218;object;opportunities;Opportunities Are Objects;Opportunities Are Objects;Don't let the opportunity pass you by.
+1219;object;opportunities;Opportunities Are Objects;Opportunities Are Objects;You have to make your own opportunities.
+1225;object;opportunities;Opportunities Are Objects;Opportunities Are Objects;I took the job when it became available.
+1238;path;opportunities;Opportunities Are Open Paths;Opportunities Are Open Paths;His job offer opened up new paths for me.
+1239;path;opportunities;Opportunities Are Open Paths;Opportunities Are Open Paths;I can go whichever I want with this project.
+1240;path;opportunities;Opportunities Are Open Paths;Opportunities Are Open Paths;Opportunity is an open door.
+1242;batteries;people;People Are Batteries;People Are Batteries;I'm all charged up and full of energy.
+1243;batteries;people;People Are Batteries;People Are Batteries;She was energized by the applause.
+1245;batteries;people;People Are Batteries;People Are Batteries;I need a jump start on Monday mornings
+1246;machine;people;People Are Machines;People Are Machines;He had a breakdown.
+1247;machine;people;People Are Machines;People Are Machines;Her ticker is weak.
+1249;machine;people;People Are Machines;People Are Machines;Fuel up with a good breakfast.
+1252;plants;people;People Are Plants;People Are Plants;She's a late bloomer.
+1254;plants;people;People Are Plants;People Are Plants;He's a budding artist.
+1256;plants;people;People Are Plants;People Are Plants;The grim reaper.
+1277;shape;perception;Perception Is Shape Recognition;Perception Is Shape Recognition;I can't figure him out.
+1278;shape;perception;Perception Is Shape Recognition;Perception Is Shape Recognition;I sized him up.
+1280;shape;perception;Perception Is Shape Recognition;Perception Is Shape Recognition;He cuts a splendid figure.
+1282;substance;personality;Personality Is Material;Personality Is Material;This will test his mettle.
+1283;substance;personality;Personality Is Material;Personality Is Material;He has a heart of gold.
+1284;substance;personality;Personality Is Material;Personality Is Material;She is made of tougher stuff.
+1285;holding;possession;Possessing Is Holding;Trying To Get Is Trying To Grab;He's been trying to get his hands on the property for years.
+1289;holding;possession;Possessing Is Holding;Possessing Is Holding;He keeps a tight grip on his valuable stocks.
+1291;holding;possession;Possessing Is Holding;Retaining A Possession Is Retaining A Held Object;Even in backruptcy he managed to hang onto his car collection.
+1298;object;problem;Problem Is A Constructed Object;Aspects Of Problem Are Components Of Object;Let's look at the make-up of this problem.
+1300;object;problem;Problem Is A Constructed Object;Aspects Of Problem Are Components Of Object;A lot of factors went into creating this problem.
+1302;object;problem;Problem Is A Constructed Object;Trying To Solve Is Looking For Solution In Object;He tore the problem apart looking for its solution.
+1303;tangle;problem;Problem Is A Tangle;Problem Is A Tangle;A knotty problem.
+1305;tangle;problem;Problem Is A Tangle;Solving Is Untangling;He untangled the problem.
+1306;tangle;problem;Problem Is A Tangle;Solving Is Untangling;He unraveled the problem.
+1308;target;problem;Problem Is A Target;Trying To Solve Problem Is Shooting At Target;The mayor targetted the problem of homelessness.
+1309;target;problem;Problem Is A Target;Trying To Solve Problem Is Shooting At Target;He took aim at the problem.
+1310;target;problem;Problem Is A Target;Trying To Solve Problem Is Shooting At Target;He spearheaded the investigation.
+1317;centrality;importance;Properties Are Physical Properties;Importance Is Centrality;Let's strip away all the unimportant details.
+1318;centrality;importance;Properties Are Physical Properties;Importance Is Centrality;What is central here?
+1319;centrality;importance;Properties Are Physical Properties;Importance Is Centrality;That's just a peripheral issue.
+1321;size;importance;Properties Are Physical Properties;Importance Is Size;That's a big discovery.
+1322;size;importance;Properties Are Physical Properties;Importance Is Size;He concentrates on little details.
+1327;size;importance;Properties Are Physical Properties;Importance Is Size;He'll never amount to anything.
+1328;depth;importance;Properties Are Physical Properties;Importance Is Depth;There's a deeper issue here.
+1329;depth;importance;Properties Are Physical Properties;Importance Is Depth;That's a profound problem.
+1330;depth;importance;Properties Are Physical Properties;Importance Is Depth;Let's ignore all the details on the surface.
+1332;length;amount;Properties Are Physical Properties;Amount Is Length;He's short of money.
+1333;length;amount;Properties Are Physical Properties;Amount Is Length;He's long on good looks.
+1334;length;amount;Properties Are Physical Properties;Amount Is Length;He's short on intelligence.
+1335;up;more;Properties Are Physical Properties;Amount Is Verticality;The number of people living in poverty went up.
+1336;up;more;Properties Are Physical Properties;Amount Is Verticality;Can you please decrease the number of assignments?
+1340;size;amount;Properties Are Physical Properties;Amount Is Size;Which of the two classes is bigger?
+1341;size;amount;Properties Are Physical Properties;Amount Is Size;He only has a little money.
+1342;size;amount;Properties Are Physical Properties;Amount Is Size;I'm not a big eater.
+1344;size;amount;Properties Are Physical Properties;Amount Is Size;Can you break a twenty?
+1347;possessions;properties;Properties Are Possessions;Properties Are Possessions;She has a nice sense of humor.
+1348;possessions;properties;Properties Are Possessions;Properties Are Possessions;He lost his tolerance for alcohol.
+1350;possessions;properties;Properties Are Possessions;Properties Are Possessions;He got his red hair from his mother.
+1353;force;influence;Psychological Forces Are Physical Forces.;Influence Is A Force;He can exert his influence on her.
+1355;force;influence;Psychological Forces Are Physical Forces.;Influence Is A Force;She could bend his will.
+1356;force;influence;Psychological Forces Are Physical Forces.;Influence Is A Force;Reagan brought pressure to bear upon his cabinet.
+1368;up;rational;Rational Is Up;Rational Is Up;The discussion fell to the emotional level, but I raised it back up to the rational plane.
+1370;up;rational;Rational Is Up;Rational Is Up;He couldn't rise above his emotions.
+1382;possessions;responsibilities;Responsibilities Are Possessions;Responsibilities Are Possessions;I was the one who got the blame.
+1383;possessions;responsibilities;Responsibilities Are Possessions;Responsibilities Are Possessions;He took all the credit.
+1389;possessions;responsibilities;Responsibilities Are Possessions;Responsibilities Are Attached To Person Held Responsible.;They made the charges stick.
+1398;touching;seeing;Seeing Is Touching, Eyes Are Limbs;Looking At Something On Purpose Is Touching It With Eyes Or Glance;I couldn't take my eyes off of him.
+1400;touching;seeing;Seeing Is Touching, Eyes Are Limbs;Looking At Something On Purpose Is Touching It With Eyes Or Glance;I met his glance with my own.
+1401;touching;seeing;Seeing Is Touching, Eyes Are Limbs;Discovering By Looking Is Manipulating With Eyes Or Glance;Her eyes picked out a detail in the pattern.
+1420;body;society;Society Is A Body;Society Is A Body;Our society is making great strides.
+1425;body;society;Society Is A Body;Society Is A Body;nurse our nation back to health
+1428;body;society;Society Is A Body;Society Is A Body;China finally stood up and was noticed.
+1435;locations;states;States Are Locations;States Are Locations;He is in love.
+1436;locations;states;States Are Locations;States Are Locations;What kind of a state was he in when you saw him?
+1440;locations;states;States Are Locations;States Are Locations;He is at a certain stage in his studies.
+1445;shapes;states;States Are Shapes;Social Interaction Is Containment In A Prescribed Shape;He doesn't fit in.
+1447;shapes;states;States Are Shapes;Ideal Physical State Is A Canonical Shape;She's getting in shape.
+1454;shapes;states;States Are Shapes;Appropriateness Of A State Is Fittingness;He let the punishment fit the crime
+1455;blindness;strong emotion;Strong Emotion Is Blinding;Strong Emotion Is Blinding;He was blinded by love.
+1456;blindness;strong emotion;Strong Emotion Is Blinding;Strong Emotion Is Blinding;She was so angry she couldn't see straight.
+1458;blindness;strong emotion;Strong Emotion Is Blinding;Strong Emotion Is Blinding;They were dazzled with excitement.
+1460;insanity;strong emotion;Strong Emotions Are Madness;Strong Emotions Are Madness;He's out of his mind with grief.
+1461;insanity;excitement;Strong Emotions Are Madness;Strong Emotions Are Madness;The excitement is driving me over the edge.
+1463;insanity;strong emotion;Strong Emotions Are Madness;Strong Emotions Are Madness;I'm mad with jealousy.
+1466;insanity;love;Strong Emotions Are Madness;Love Is Madness;He raves about her.
+1467;insanity;love;Strong Emotions Are Madness;Love Is Madness;I'm just wild about Harry.
+1469;insanity;love;Strong Emotions Are Madness;Love Is Madness;She is madly in love.
+1472;areas;subjects;Subjects Are Areas;Subjects Are Areas;He is in a difficult field.
+1477;areas;subjects;Subjects Are Areas;Research Is Exploration;The scientists have covered a lot of ground in the last 100 years.
+1482;areas;subjects;Subjects Are Areas;Research Is Exploration;Your dissertation should stake out new territory, preferably virgin territory.
+1483;areas;subjects;Subjects Are Areas;Research Is Exploration;The researchers surveyed the new material.
+1492;container;body;The Body Is A Container For The Self;The Body Is A Container For The Self;He's a young man trapped in an old man's body.
+1493;container;body;The Body Is A Container For The Self;The Body Is A Container For The Self;He withdraws into himself.
+1495;container;body;The Body Is A Container For The Self;The Body Is A Container For The Self;Once you get past his rude exterior, you'll find a warm and caring person inside.
+1498;container;meaning;The Conduit Metaphor;The Content Is Contained In The Stimulus;He found the knowledge in a new book.
+1499;container;meaning;The Conduit Metaphor;The Content Is Contained In The Stimulus;Your words seem rather hollow.
+1507;container;meaning;The Conduit Metaphor;The Content Is Contained In The Stimulus;Harry does not exactly overload his paragraphs with thought.
+1518;projectiles;ideas;The Conduit Metaphor;Ideas Are Projectiles, Which The Sender Conveys In Some Manner;He launched the discussion.
+1519;projectiles;ideas;The Conduit Metaphor;Ideas Are Projectiles, Which The Sender Conveys In Some Manner;He heaved the whole issue onto me.
+1520;projectiles;ideas;The Conduit Metaphor;Ideas Are Projectiles, Which The Sender Conveys In Some Manner;He hurled his criticisms at me, one after another.
+1521;body;mind;The Mind Is A Body;Mental Fitness Is Physical Fitness;His mind is strong and supple.
+1529;body;mind;The Mind Is A Body;Mental Control Is Physical Control;It's in the palm of my hand.
+1532;body;mind;The Mind Is A Body;Mental Control Is Physical Control;The idea just slipped through my fingers.
+1551;machine;mind;The Mind Is A Machine;The Mind Is A Machine;He has a screw loose.
+1552;machine;mind;The Mind Is A Machine;The Mind Is A Machine;He slipped a cog.
+1554;machine;mind;The Mind Is A Machine;The Mind Is A Machine;He churns out ideas. 
+1573;competition;debate;Theoretical Debate Is Competition;Theoretical Debate Is Competition;The adherents of that theory will soon be beaten out by new theorists.
+1577;competition;debate;Theoretical Debate Is Competition;Theoretical Debate Is Competition;Evolution is the leading biological theory
+1579;competition;debate;Theoretical Debate Is Competition;Theoretical Debate Is Competition;A fierce battle is shaping up in modern philosophy.
+1599;support;beliefs;Theoretical Debate Is Competition;Basic Assumptions Of A Theory Are Foundations;He chipped away at the foundation for her beliefs.
+1600;support;beliefs;Theoretical Debate Is Competition;Basic Assumptions Of A Theory Are Foundations;He tried to undermine her belief.
+1601;support;beliefs;Theoretical Debate Is Competition;Believers Of The Theory Protect The Theory From Collapse;What view does he uphold?
+1606;beings;theories;Theories Are Beings With Life Cycles;Theories Are Beings With Life Cycles;The theory died out.
+1609;beings;theories;Theories Are Beings With Life Cycles;Theories Are People (w.r.t Life Cycle);A new theory was given birth.
+1617;beings;theories;Theories Are Beings With Life Cycles;Theories Are Plants (w.r.t. Life Cycle);Many theories sprang up out of the fertile soil of his discoveries.
+1619;cloth;theories;Theories Are Cloth;Theories Are Cloth;A finely woven theory.
+1623;cloth;theories;Theories Are Cloth;Theories Are Clothing For Facts;The theory fit the data nicely.
+1624;cloth;theories;Theories Are Cloth;Theories Are Clothing For Facts;Let's look at the naked facts.
+1629;part-whole;theories;Theories Are Constructed Objects;IDEAS ARE CONSTRUCTRED OBJECTS;They assembled a theory.
+1631;part-whole;theories;Theories Are Constructed Objects;IDEAS ARE CONSTRUCTRED OBJECTS;One piece of the theory doesn't fit.
+1639;part-whole;theories;Theories Are Constructed Objects;IDEAS ARE CONSTRUCTRED OBJECTS;The theory was torn down brick by brick by its opponants.
+1660;changer;time;Time Is A Changer;Time Is A Changer;Time heals all wounds.
+1662;changer;time;Time Is A Changer;Time Is A Changer;Time had made her look old.
+1663;changer;time;Time Is A Changer;Time Is A Changer;Time had not been kind to him.
+1665;container;time;Time Is A Container (bounded);Time Is A Container (bounded);He did it in three minutes.
+1667;container;time;Time Is A Container (bounded);Time Is A Container (bounded);We're well into the century.
+1668;container;time;Time Is A Container (bounded);Time Is A Container (bounded);He's like something out of the last century.
+1669;landscape;time;Time Is A Landscape We Move Through;Time Is A Landscape We Move Through;We're coming up on Xmas.
+1670;landscape;time;Time Is A Landscape We Move Through;Time Is A Landscape We Move Through;Thanksgiving is looming on the horizen.
+1671;landscape;time;Time Is A Landscape We Move Through;Time Is A Landscape We Move Through;He didn't make it to Tuesday.
+1677;resource;time;Time Is A Resource;Time Is A Resource;We're almost out of time.
+1678;resource;time;Time Is A Resource;Time Is A Resource;Don't waste time.
+1679;resource;time;Time Is A Resource;Time Is A Resource;Find a better use for your time.
+1680;money;time;Time Is Money;Time Is Money;She spends her time unwisely.
+1681;money;time;Time Is Money;Time Is Money;The diversion should buy him some time.
+1682;money;time;Time Is Money;Time Is Money;Time is money
+1685;moving object;time;Time Is Something Moving Toward You;Time Is Something Moving Toward You;Thursday passed without incident.
+1687;moving object;time;Time Is Something Moving Toward You;Time Is Something Moving Toward You;Time crept along.
+1691;moving object;time;Time Is Something Moving Toward You;Time Is Something Moving Toward You;What events are up ahead?
+1693;war;illness;Treating Illness Is Fighting A War;The Body Is A Battleground;The disease infiltrates your body and takes over.
+1694;war;illness;Treating Illness Is Fighting A War;Infection Is An Attack By The Disease;His body was under seige by AIDS.
+1698;war;illness;Treating Illness Is Fighting A War;Medical Procedures Are Attacks By The Patient;The doctors tried to wipe out the infection.
+1702;well-being;wealth;Well-being Is Wealth;Well-being Is Wealth;I am the richest man in the world: I have the love of my family.
+1704;well-being;wealth;Well-being Is Wealth;Well-being Is Wealth;It is a poor man who has no love of himself.
+1705;well-being;wealth;Well-being Is Wealth;Well-being Is Wealth;The cynics of this world lead impoverished lives.
+1706;weapons;words;Words Are Weapons;Words Are Weapons;She used some sharp words.
+1707;weapons;words;Words Are Weapons;Words Are Weapons;That was pretty cutting language.
+1710;weapons;words;Words Are Weapons;Words Are Weapons;He hurled insults at her.
