@@ -1,0 +1,361 @@
+prompt,completion
+"He is stoned.
+Target Domain: intoxication
+Source Domain:", destruction END
+"He is bombed.
+Target Domain: intoxication
+Source Domain:", destruction END
+"Which of the two classes is bigger?
+Target Domain: amount
+Source Domain:", size END
+"He only has a little money.
+Target Domain: amount
+Source Domain:", size END
+"This is just the seed of a belief.
+Target Domain: beliefs
+Source Domain:", plants END
+"This belief has taken root in my mind.
+Target Domain: beliefs
+Source Domain:", plants END
+"She finally reached the end of the dissertation-writing process.
+Target Domain: success
+Source Domain:", goal END
+"After working on the application for days, I finally saw the light at the end of the tunnel.
+Target Domain: success
+Source Domain:", goal END
+"He is in a difficult field.
+Target Domain: subjects
+Source Domain:", areas END
+"The scientists have covered a lot of ground in the last 100 years.
+Target Domain: subjects
+Source Domain:", areas END
+"His behavior made me want to throw up.
+Target Domain: disgust
+Source Domain:", nausea END
+"He broke down in tears.
+Target Domain: emotion
+Source Domain:", object END
+"His mind snapped.
+Target Domain: mind
+Source Domain:", object END
+"You have to make your own opportunities.
+Target Domain: opportunities
+Source Domain:", object END
+"A lot of factors went into creating this problem.
+Target Domain: problem
+Source Domain:", object END
+"I couldn't possibly repay your kindness.
+Target Domain: morality
+Source Domain:", accounting END
+"Those two are really in synch.
+Target Domain: relationship
+Source Domain:", musical harmony END
+"Her accident was an enormous setback to her career.
+Target Domain: harm
+Source Domain:", path END
+"He's a crooked businessman.
+Target Domain: morality
+Source Domain:", path END
+"Money is the root of all evil.
+Target Domain: creation
+Source Domain:", plants END
+"He's a budding artist.
+Target Domain: people
+Source Domain:", plants END
+"Time crept along.
+Target Domain: time
+Source Domain:", moving object END
+"Then he got ahead of schedule.
+Target Domain: schedule
+Source Domain:", moving object END
+"He paid with his life for my mistake.
+Target Domain: causation
+Source Domain:", money END
+"What kind of a state was he in when you saw him?
+Target Domain: states
+Source Domain:", locations END
+"He embraced that belief wholeheartedly.
+Target Domain: beliefs
+Source Domain:", lovers END
+"I've got my motor runnin', baby.
+Target Domain: lust
+Source Domain:", machine END
+"He slipped a cog.
+Target Domain: mind
+Source Domain:", machine END
+"Her ticker is weak.
+Target Domain: people
+Source Domain:", machine END
+"The force of his hypnotic words had me in its grip.
+Target Domain: force
+Source Domain:", moving object END
+"He slipped into a depression.
+Target Domain: change
+Source Domain:", motion END
+"Don't jump to conclusions.
+Target Domain: ideas
+Source Domain:", motion END
+"The road bends.
+Target Domain: shape
+Source Domain:", motion END
+"You're all I've got.
+Target Domain: lover
+Source Domain:", possession END
+"He acquired most of his beliefs during childhood.
+Target Domain: beliefs
+Source Domain:", possessions END
+"He's on thin ice.
+Target Domain: harm
+Source Domain:", location END
+"The audience was bursting with laughter.
+Target Domain: laughter
+Source Domain:", substance END
+"He tried to undermine her belief.
+Target Domain: beliefs
+Source Domain:", support END
+"He took aim at the problem.
+Target Domain: problem
+Source Domain:", target END
+"I met his glance with my own.
+Target Domain: seeing
+Source Domain:", touching END
+"Suddenly my headache vanished.
+Target Domain: existence
+Source Domain:", visibility END
+"We had to feel our way through the darkness.
+Target Domain: darkness
+Source Domain:", solid END
+"We took over the ball deep in their territory.
+Target Domain: competition
+Source Domain:", war END
+"His body was under seige by AIDS.
+Target Domain: illness
+Source Domain:", war END
+"That was pretty cutting language.
+Target Domain: words
+Source Domain:", weapons END
+"The economic forecast is favorable.
+Target Domain: adversity
+Source Domain:", weather END
+"He gave me a look that spoke volumes.
+Target Domain: communication
+Source Domain:", speech END
+"My car gave me a lot of trouble yesterday.
+Target Domain: harm
+Source Domain:", possessions END
+"He bears the responsibility for the success of this mission.
+Target Domain: obligations
+Source Domain:", possessions END
+"He lost his tolerance for alcohol.
+Target Domain: properties
+Source Domain:", possessions END
+"He took all the credit.
+Target Domain: responsibilities
+Source Domain:", possessions END
+"You're moving into shark infested waters.
+Target Domain: competitors
+Source Domain:", predators END
+"If that player goes in, he'll be dead meat!
+Target Domain: harm
+Source Domain:", prey END
+"We've been playing chess for years, and he's finally pulling ahead of me.
+Target Domain: competition
+Source Domain:", race END
+"She was puffed up with pride.
+Target Domain: conceit
+Source Domain:", size END
+"Under hypnosis, the sweet old lady was replaced by a scheming criminal.
+Target Domain: change
+Source Domain:", replacement END
+"Don't waste time.
+Target Domain: time
+Source Domain:", resource END
+"She finally opened her eyes to what was going on around her.
+Target Domain: understanding
+Source Domain:", seeing END
+"I sized him up.
+Target Domain: perception
+Source Domain:", shape END
+"She's getting in shape.
+Target Domain: states
+Source Domain:", shapes END
+"This adds up to trouble.
+Target Domain: thinking
+Source Domain:", accounting END
+"I think we're headed in the right direction.
+Target Domain: problem
+Source Domain:", location END
+"The baby is due any day.
+Target Domain: existence
+Source Domain:", location END
+"Your words seem rather hollow.
+Target Domain: meaning
+Source Domain:", container END
+"He couldn't get to first base with her.
+Target Domain: sex
+Source Domain:", competition END
+"He withdraws into himself.
+Target Domain: body
+Source Domain:", container END
+"We're in this thing together.
+Target Domain: difficulties
+Source Domain:", container END
+"The bottom of the economy dropped out.
+Target Domain: investment
+Source Domain:", container END
+"Try to get out of those committments; don't let your boss box you in.
+Target Domain: obligations
+Source Domain:", container END
+"The theory fit the data nicely.
+Target Domain: theories
+Source Domain:", cloth END
+"We're well into the century.
+Target Domain: time
+Source Domain:", container END
+"He was enveloped in darkness.
+Target Domain: darkness
+Source Domain:", cover END
+"cash flow
+Target Domain: money
+Source Domain:", liquid END
+"The theory was cut to pieces.
+Target Domain: harm
+Source Domain:", destruction END
+"She was so angry she couldn't see straight.
+Target Domain: strong emotion
+Source Domain:", blindness END
+"The club seems dead tonight
+Target Domain: active
+Source Domain:", alive END
+"She was energized by the applause.
+Target Domain: people
+Source Domain:", batteries END
+"It's in the palm of my hand.
+Target Domain: mind
+Source Domain:", body END
+"The murky waters of the investigation frustrated him.
+Target Domain: problem
+Source Domain:", body of water END
+"What is central here?
+Target Domain: importance
+Source Domain:", centrality END
+"His girlfriends keep getting taller.
+Target Domain: disparity
+Source Domain:", change END
+"I thought you were going to take care of that problem.
+Target Domain: obligations
+Source Domain:", children END
+"He needs some direction.
+Target Domain: purpose
+Source Domain:", direction END
+"Put on a happy face.
+Target Domain: facial expression
+Source Domain:", cover END
+"He's barely staying afloat.
+Target Domain: defeat
+Source Domain:", drowning END
+"He felt uprooted.
+Target Domain: emotion stability
+Source Domain:", grounding END
+"He can always shed light on the problem.
+Target Domain: intelligence
+Source Domain:", light END
+"He has bright hopes.
+Target Domain: hope
+Source Domain:", light END
+"He's long on good looks.
+Target Domain: amount
+Source Domain:", length END
+"Thanksgiving is looming on the horizen.
+Target Domain: time
+Source Domain:", landscape END
+"This relationship has been spinning its wheels for years.
+Target Domain: love
+Source Domain:", journey END
+"He just sails through life.
+Target Domain: life
+Source Domain:", journey END
+"I'm just wild about Harry.
+Target Domain: love
+Source Domain:", insanity END
+"She thirsts for recognition.
+Target Domain: desire
+Source Domain:", hunger END
+"He's just blowing off steam.
+Target Domain: anger
+Source Domain:", heat END
+"There are misleading beliefs.
+Target Domain: beliefs
+Source Domain:", guides END
+"He's headed for an early death.
+Target Domain: final state
+Source Domain:", goal END
+"I was pushed into depression.
+Target Domain: emotion
+Source Domain:", force END
+"I beat him at chess.
+Target Domain: competition
+Source Domain:", fight END
+"He soaked up some sun.
+Target Domain: light
+Source Domain:", fluid END
+"Let me chew on that for a while.
+Target Domain: ideas
+Source Domain:", food END
+"Something in me pulls me toward the wrong kind of man.
+Target Domain: desire
+Source Domain:", force END
+"I read more into his actions than actually was there.
+Target Domain: communication
+Source Domain:", writing END
+"She could bend his will.
+Target Domain: influence
+Source Domain:", force END
+"Finally, all my educational goals are in reach.
+Target Domain: end of action
+Source Domain:", goal END
+"Well you just go to the front entrance
+Target Domain: entrance
+Source Domain:", not metaphoric END
+"When he was little he was sat in his buggy.
+Target Domain: sitting
+Source Domain:", not metaphoric END
+"Yeah I know.
+Target Domain: knowing
+Source Domain:", not metaphoric END
+"Then I do normally watch it with you.
+Target Domain: watching
+Source Domain:", not metaphoric END
+"When did you eat when did you eat your chips?
+Target Domain: eating
+Source Domain:", not metaphoric END
+"We have seen Brittany.
+Target Domain: seeing
+Source Domain:", not metaphoric END
+"Some else is sitting at their desk?
+Target Domain: desk
+Source Domain:", not metaphoric END
+"Where do you get your carrots from?
+Target Domain: getting
+Source Domain:", not metaphoric END
+"But the upstairs one that is the kitchen is a bit smaller.
+Target Domain: rooms
+Source Domain:", not metaphoric END
+"Old men remembering their youth.
+Target Domain: youth
+Source Domain:", not metaphoric END
+"We are trying to find our missing scientist now.
+Target Domain: missing 
+Source Domain:", not metaphoric END
+"The doorbell sounded.
+Target Domain: bells 
+Source Domain:", not metaphoric END
+"Four hours of instruction a day for two weeks.
+Target Domain: time 
+Source Domain:", not metaphoric END
+"The inspector was not listening.
+Target Domain: listening
+Source Domain:", not metaphoric END
+"He had not prayed for Ann Maguire.
+Target Domain: belief
+Source Domain:", not metaphoric END

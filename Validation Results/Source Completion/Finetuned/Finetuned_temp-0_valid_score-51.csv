@@ -1,0 +1,21 @@
+,index,prompt,completion,GPT3 Completion,similarity
+0,0,"He is stoned.
+Target Domain: intoxication
+Source Domain:", destruction," injury
+Source Domain Target",0.1657976657152176
+1,1,"He is bombed.
+Target Domain: intoxication
+Source Domain:", destruction," injury
+Source Domain Target",0.1657976657152176
+2,2,"Which of the two classes is bigger?
+Target Domain: amount
+Source Domain:", size," size
+Source Domain Domain",1.0
+3,3,"He only has a little money.
+Target Domain: amount
+Source Domain:", size," size
+Source Domain Domain",1.0
+4,4,"This is just the seed of a belief.
+Target Domain: beliefs
+Source Domain:", plants," beings
+Source Domain Domain",0.20405101776123047

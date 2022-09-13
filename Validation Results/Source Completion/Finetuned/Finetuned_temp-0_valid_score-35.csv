@@ -1,0 +1,474 @@
+,index,prompt,completion,GPT3 Completion,similarity
+0,0,"He is stoned.
+Target Domain: intoxication
+Source Domain:", destruction," injury
+Source Domain Target",0.1657976657152176
+1,1,"He is bombed.
+Target Domain: intoxication
+Source Domain:", destruction," injury
+Source Domain Target",0.1657976657152176
+2,2,"Which of the two classes is bigger?
+Target Domain: amount
+Source Domain:", size," size
+Source Domain Domain",1.0
+3,3,"He only has a little money.
+Target Domain: amount
+Source Domain:", size," size
+Source Domain Domain",1.0
+4,4,"This is just the seed of a belief.
+Target Domain: beliefs
+Source Domain:", plants," beings
+Source Domain Domain",0.20405101776123047
+5,5,"This belief has taken root in my mind.
+Target Domain: beliefs
+Source Domain:", plants," beings
+Source Domain Target",0.20405101776123047
+6,6,"She finally reached the end of the dissertation-writing process.
+Target Domain: success
+Source Domain:", goal," motion
+Source Domain Domain",0.07491381466388702
+7,7,"After working on the application for days, I finally saw the light at the end of the tunnel.
+Target Domain: success
+Source Domain:", goal," light
+Source Domain Domain",0.10999100655317307
+8,8,"He is in a difficult field.
+Target Domain: subjects
+Source Domain:", areas," beings
+Source Domain Target",0.13767078518867493
+9,9,"The scientists have covered a lot of ground in the last 100 years.
+Target Domain: subjects
+Source Domain:", areas," not metaphoric
+Source",0.19461798667907715
+10,10,"His behavior made me want to throw up.
+Target Domain: disgust
+Source Domain:", nausea," disease
+Source Domain Target",0.3084980845451355
+11,11,"He broke down in tears.
+Target Domain: emotion
+Source Domain:", object," motion
+Source Domain Target",0.36030882596969604
+12,12,"His mind snapped.
+Target Domain: mind
+Source Domain:", object," body
+Source Domain Target",0.33791273832321167
+13,13,"You have to make your own opportunities.
+Target Domain: opportunities
+Source Domain:", object," path
+Source Domain Domain",0.28639331459999084
+14,14,"A lot of factors went into creating this problem.
+Target Domain: problem
+Source Domain:", object, part-whole relationship,0.2734007239341736
+15,15,"I couldn't possibly repay your kindness.
+Target Domain: morality
+Source Domain:", accounting," money
+Source Domain Domain",0.2739749252796173
+16,16,"Those two are really in synch.
+Target Domain: relationship
+Source Domain:", musical harmony," motion
+Source Domain Target",0.22118006646633148
+17,17,"Her accident was an enormous setback to her career.
+Target Domain: harm
+Source Domain:", path," injury
+Source Domain Target",0.10399274528026581
+18,18,"He's a crooked businessman.
+Target Domain: morality
+Source Domain:", path," honesty
+Source Domain Target",0.15995074808597565
+19,19,"Money is the root of all evil.
+Target Domain: creation
+Source Domain:", plants," not metaphoric
+Source",0.12759752571582794
+20,20,"He's a budding artist.
+Target Domain: people
+Source Domain:", plants," not metaphoric 
+",0.12759752571582794
+21,21,"Time crept along.
+Target Domain: time
+Source Domain:", moving object," motion
+Source Domain Domain",0.4523807168006897
+22,22,"Then he got ahead of schedule.
+Target Domain: schedule
+Source Domain:", moving object," line
+Source Domain Domain",0.32507625222206116
+23,23,"He paid with his life for my mistake.
+Target Domain: causation
+Source Domain:", money," payment
+Source Domain Target",0.4954639673233032
+24,24,"What kind of a state was he in when you saw him?
+Target Domain: states
+Source Domain:", locations," not metaphoric
+Source",0.11483344435691833
+25,25,"He embraced that belief wholeheartedly.
+Target Domain: beliefs
+Source Domain:", lovers, part-whole relationships,0.32291218638420105
+26,26,"I've got my motor runnin', baby.
+Target Domain: lust
+Source Domain:", machine," motion
+Source Domain Target",0.2202901989221573
+27,27,"He slipped a cog.
+Target Domain: mind
+Source Domain:", machine," machine
+Source Domain Target",0.9999999403953552
+28,28,"Her ticker is weak.
+Target Domain: people
+Source Domain:", machine," machines
+Source Domain Target",0.7482518553733826
+29,29,"The force of his hypnotic words had me in its grip.
+Target Domain: force
+Source Domain:", moving object," motion
+Source Domain Target",0.4523807168006897
+30,30,"He slipped into a depression.
+Target Domain: change
+Source Domain:", motion," motion
+Source Domain Domain",0.9999999403953552
+31,31,"Don't jump to conclusions.
+Target Domain: ideas
+Source Domain:", motion," projectiles
+Source Domain Target",0.024216819554567337
+32,32,"The road bends.
+Target Domain: shape
+Source Domain:", motion," line
+Source Domain Domain",0.1457187384366989
+33,33,"You're all I've got.
+Target Domain: lover
+Source Domain:", possession, part-whole relation,0.23042187094688416
+34,34,"He acquired most of his beliefs during childhood.
+Target Domain: beliefs
+Source Domain:", possessions," possessions
+Source Domain Target",1.0
+35,35,"He's on thin ice.
+Target Domain: harm
+Source Domain:", location," injury
+Source Domain Target",0.09307697415351868
+36,36,"The audience was bursting with laughter.
+Target Domain: laughter
+Source Domain:", substance, container metaphoricTarget Domain,0.10205715894699097
+37,37,"He tried to undermine her belief.
+Target Domain: beliefs
+Source Domain:", support," possessions
+Source Domain Target",0.06076797470450401
+38,38,"He took aim at the problem.
+Target Domain: problem
+Source Domain:", target," adversary
+Source Domain Target",0.1568148285150528
+39,39,"I met his glance with my own.
+Target Domain: seeing
+Source Domain:", touching," not metaphoric
+Source",0.21924501657485962
+40,40,"Suddenly my headache vanished.
+Target Domain: existence
+Source Domain:", visibility," not metaphoric
+Source",0.11070901900529861
+41,41,"We had to feel our way through the darkness.
+Target Domain: darkness
+Source Domain:", solid," cold
+Source Domain Target",0.24603167176246643
+42,42,"We took over the ball deep in their territory.
+Target Domain: competition
+Source Domain:", war," adversary
+Source Domain Target",0.21881715953350067
+43,43,"His body was under seige by AIDS.
+Target Domain: illness
+Source Domain:", war," adversary
+Source Domain Target",0.21881715953350067
+44,44,"That was pretty cutting language.
+Target Domain: words
+Source Domain:", weapons," injury
+Source Domain Target",0.09269976615905762
+45,45,"The economic forecast is favorable.
+Target Domain: adversity
+Source Domain:", weather," adversary
+Source Domain Target",0.06469268351793289
+46,46,"He gave me a look that spoke volumes.
+Target Domain: communication
+Source Domain:", speech," motion
+Source Domain Domain",0.21058090031147003
+47,47,"My car gave me a lot of trouble yesterday.
+Target Domain: harm
+Source Domain:", possessions," injury
+Source Domain Target",0.06351105123758316
+48,48,"He bears the responsibility for the success of this mission.
+Target Domain: obligations
+Source Domain:", possessions," burden
+Source Domain Target",0.08705444633960724
+49,49,"He lost his tolerance for alcohol.
+Target Domain: properties
+Source Domain:", possessions," changers
+Source Domain",-0.008993628434836864
+50,50,"He took all the credit.
+Target Domain: responsibilities
+Source Domain:", possessions," not metaphoric 
+",0.061084676533937454
+51,51,"You're moving into shark infested waters.
+Target Domain: competitors
+Source Domain:", predators," predators
+Source Domain Target",1.0
+52,52,"If that player goes in, he'll be dead meat!
+Target Domain: harm
+Source Domain:", prey," injury
+Source Domain Domain",0.05723613500595093
+53,53,"We've been playing chess for years, and he's finally pulling ahead of me.
+Target Domain: competition
+Source Domain:", race," competition
+Source Domain Target",0.3645939528942108
+54,54,"She was puffed up with pride.
+Target Domain: conceit
+Source Domain:", size," puffiness
+Source Domain",-0.03555719181895256
+55,55,"Under hypnosis, the sweet old lady was replaced by a scheming criminal.
+Target Domain: change
+Source Domain:", replacement," transformation
+Source Domain Target",0.1424809992313385
+56,56,"Don't waste time.
+Target Domain: time
+Source Domain:", resource," money
+Source Domain Domain",0.19315382838249207
+57,57,"She finally opened her eyes to what was going on around her.
+Target Domain: understanding
+Source Domain:", seeing," sight
+Source Domain Target",0.538608193397522
+58,58,"I sized him up.
+Target Domain: perception
+Source Domain:", shape," scale
+Source Domain Domain",0.2683351933956146
+59,59,"She's getting in shape.
+Target Domain: states
+Source Domain:", shapes," conditions
+Source Domain Target",0.18141449987888336
+60,60,"This adds up to trouble.
+Target Domain: thinking
+Source Domain:", accounting," tacks
+Source Domain",-0.04296795278787613
+61,61,"I think we're headed in the right direction.
+Target Domain: problem
+Source Domain:", location," path
+Source Domain Target",0.2733713984489441
+62,62,"The baby is due any day.
+Target Domain: existence
+Source Domain:", location," beings
+Source Domain Domain",0.013260986655950546
+63,63,"Your words seem rather hollow.
+Target Domain: meaning
+Source Domain:", container," substance
+Source Domain Target",0.10205715894699097
+64,64,"He couldn't get to first base with her.
+Target Domain: sex
+Source Domain:", competition," motion
+Source Domain Target",0.10980251431465149
+65,65,"He withdraws into himself.
+Target Domain: body
+Source Domain:", container," container
+Source Domain Target",1.0
+66,66,"We're in this thing together.
+Target Domain: difficulties
+Source Domain:", container, part-whole relations,0.03024052083492279
+67,67,"The bottom of the economy dropped out.
+Target Domain: investment
+Source Domain:", container," depth
+Source Domain Target",0.105786994099617
+68,68,"Try to get out of those committments; don't let your boss box you in.
+Target Domain: obligations
+Source Domain:", container," not metaphoric
+Source",0.042842790484428406
+69,69,"The theory fit the data nicely.
+Target Domain: theories
+Source Domain:", cloth, part-whole relations,-0.08596223592758179
+70,70,"We're well into the century.
+Target Domain: time
+Source Domain:", container," motion
+Source Domain metaph",0.012819613330066204
+71,71,"He was enveloped in darkness.
+Target Domain: darkness
+Source Domain:", cover," container
+Source Domain Target",0.1793205589056015
+72,72,"cash flow
+Target Domain: money
+Source Domain:", liquid," motion
+Source Domain Domain",0.15628382563591003
+73,73,"The theory was cut to pieces.
+Target Domain: harm
+Source Domain:", destruction," injury
+Source Domain Target",0.1657976657152176
+74,74,"She was so angry she couldn't see straight.
+Target Domain: strong emotion
+Source Domain:", blindness," heat
+Source Domain Target",0.0602777935564518
+75,75,"The club seems dead tonight
+Target Domain: active
+Source Domain:", alive," not metaphoric
+Source",0.20794114470481873
+76,76,"She was energized by the applause.
+Target Domain: people
+Source Domain:", batteries," machines
+Source Domain Target",0.27918142080307007
+77,77,"It's in the palm of my hand.
+Target Domain: mind
+Source Domain:", body," hand
+Source Domain Target",0.4031307101249695
+78,78,"The murky waters of the investigation frustrated him.
+Target Domain: problem
+Source Domain:", body of water," tangle
+Source Domain",0.07681379467248917
+79,79,"What is central here?
+Target Domain: importance
+Source Domain:", centrality," size
+Source Domain Domain",0.03596142306923866
+80,80,"His girlfriends keep getting taller.
+Target Domain: disparity
+Source Domain:", change," size
+Source Domain metaph",0.3274773061275482
+81,81,"I thought you were going to take care of that problem.
+Target Domain: obligations
+Source Domain:", children," not metaphoric 
+",0.19480977952480316
+82,82,"He needs some direction.
+Target Domain: purpose
+Source Domain:", direction," path
+Source Domain Target",0.502282977104187
+83,83,"Put on a happy face.
+Target Domain: facial expression
+Source Domain:", cover," not metaphoric
+Source",0.2342517077922821
+84,84,"He's barely staying afloat.
+Target Domain: defeat
+Source Domain:", drowning, underline metaphoric line,-0.0878160148859024
+85,85,"He felt uprooted.
+Target Domain: emotion stability
+Source Domain:", grounding," motion
+Source Domain Target",0.0988239124417305
+86,86,"He can always shed light on the problem.
+Target Domain: intelligence
+Source Domain:", light," light
+Source Domain Domain",1.0
+87,87,"He has bright hopes.
+Target Domain: hope
+Source Domain:", light," light
+Source Domain Domain",1.0
+88,88,"He's long on good looks.
+Target Domain: amount
+Source Domain:", length," size
+Source Domain Domain",0.4992116391658783
+89,89,"Thanksgiving is looming on the horizen.
+Target Domain: time
+Source Domain:", landscape," not metaphoric
+Source",0.06618632376194
+90,90,"This relationship has been spinning its wheels for years.
+Target Domain: love
+Source Domain:", journey," motion
+Source Domain Target",0.07932477444410324
+91,91,"He just sails through life.
+Target Domain: life
+Source Domain:", journey," motion
+Source Domain Target",0.07932477444410324
+92,92,"I'm just wild about Harry.
+Target Domain: love
+Source Domain:", insanity," animal lust
+Source Domain",0.23745587468147278
+93,93,"She thirsts for recognition.
+Target Domain: desire
+Source Domain:", hunger," need
+Source Domain Target",0.24107566475868225
+94,94,"He's just blowing off steam.
+Target Domain: anger
+Source Domain:", heat," heat
+Source Domain Target",1.0
+95,95,"There are misleading beliefs.
+Target Domain: beliefs
+Source Domain:", guides," not metaphoric 
+",0.08846193552017212
+96,96,"He's headed for an early death.
+Target Domain: final state
+Source Domain:", goal," not metaphoric
+Source",0.09565398097038269
+97,97,"I was pushed into depression.
+Target Domain: emotion
+Source Domain:", force," motion
+Source Domain Target",0.2571427822113037
+98,98,"I beat him at chess.
+Target Domain: competition
+Source Domain:", fight," competition
+Source Domain Target",0.30469098687171936
+99,99,"He soaked up some sun.
+Target Domain: light
+Source Domain:", fluid," heat
+Source Domain Target",0.28395354747772217
+100,100,"Let me chew on that for a while.
+Target Domain: ideas
+Source Domain:", food," chewing
+Source Domain Target",0.21695028245449066
+101,101,"Something in me pulls me toward the wrong kind of man.
+Target Domain: desire
+Source Domain:", force," pull
+Source Domain Target",0.3909898102283478
+102,102,"I read more into his actions than actually was there.
+Target Domain: communication
+Source Domain:", writing," motion
+Source Domain Domain",0.2629868984222412
+103,103,"She could bend his will.
+Target Domain: influence
+Source Domain:", force," motion
+Source Domain Domain",0.2571427822113037
+104,104,"Finally, all my educational goals are in reach.
+Target Domain: end of action
+Source Domain:", goal," not metaphoric
+Source",0.09565398097038269
+105,105,"Well you just go to the front entrance
+Target Domain: entrance
+Source Domain:", not metaphoric," path
+Source Domain Domain",0.2764557898044586
+106,106,"When he was little he was sat in his buggy.
+Target Domain: sitting
+Source Domain:", not metaphoric," not metaphoric
+Source",1.0
+107,107,"Yeah I know.
+Target Domain: knowing
+Source Domain:", not metaphoric," not metaphoric
+Source",1.0
+108,108,"Then I do normally watch it with you.
+Target Domain: watching
+Source Domain:", not metaphoric," not metaphoric
+Source",1.0
+109,109,"When did you eat when did you eat your chips?
+Target Domain: eating
+Source Domain:", not metaphoric," not metaphoric 
+",1.0
+110,110,"We have seen Brittany.
+Target Domain: seeing
+Source Domain:", not metaphoric," not metaphoric
+Source",1.0
+111,111,"Some else is sitting at their desk?
+Target Domain: desk
+Source Domain:", not metaphoric," not metaphoric 
+",1.0
+112,112,"Where do you get your carrots from?
+Target Domain: getting
+Source Domain:", not metaphoric," not metaphoric
+Source",1.0
+113,113,"But the upstairs one that is the kitchen is a bit smaller.
+Target Domain: rooms
+Source Domain:", not metaphoric," not metaphoric 
+",1.0
+114,114,"Old men remembering their youth.
+Target Domain: youth
+Source Domain:", not metaphoric," not metaphoric 
+",1.0
+115,115,"We are trying to find our missing scientist now.
+Target Domain: missing 
+Source Domain:", not metaphoric," not metaphoric 
+",1.0
+116,116,"The doorbell sounded.
+Target Domain: bells 
+Source Domain:", not metaphoric," not metaphoric
+Source",1.0
+117,117,"Four hours of instruction a day for two weeks.
+Target Domain: time 
+Source Domain:", not metaphoric," money
+Source Domain Domain",0.27518129348754883
+118,118,"The inspector was not listening.
+Target Domain: listening
+Source Domain:", not metaphoric," not metaphoric
+Source",1.0
+119,119,"He had not prayed for Ann Maguire.
+Target Domain: belief
+Source Domain:", not metaphoric," not metaphoric 
+",1.0

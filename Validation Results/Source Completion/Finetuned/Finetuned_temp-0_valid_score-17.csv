@@ -1,0 +1,7 @@
+,index,prompt,completion,GPT3 Completion,similarity
+0,0,"He is stoned.
+Target Domain: intoxication
+Source Domain:", destruction END, injury,0.1657976657152176
+1,1,"He is bombed.
+Target Domain: intoxication
+Source Domain:", destruction END, injury,0.1657976657152176

@@ -1,0 +1,132 @@
+{"prompt":"I've lost all hope of a solution.\nTarget Domain: hope\nSource Domain:","completion":" possessions"}
+{"prompt":"Her hopes were crushed.\nTarget Domain: hope\nSource Domain:","completion":" possessions"}
+{"prompt":"He recovered his hopes for a peace on earth.\nTarget Domain: hope\nSource Domain:","completion":" possessions"}
+{"prompt":"I was moved by the poem.\nTarget Domain: emotion\nSource Domain:","completion":" motion"}
+{"prompt":"You send me.\nTarget Domain: emotion\nSource Domain:","completion":" motion"}
+{"prompt":"I went into transports of joy.\nTarget Domain: emotion\nSource Domain:","completion":" motion"}
+{"prompt":"You have to weigh the pros and cons.\nTarget Domain: comparison\nSource Domain:","completion":" scale"}
+{"prompt":"TV viewership is higher during prime time than daytime\nTarget Domain: comparison\nSource Domain:","completion":" scale"}
+{"prompt":"The scale just tipped in favor of my voting yes.\nTarget Domain: comparison\nSource Domain:","completion":" scale"}
+{"prompt":"He's been trying to get his hands on the property for years.\nTarget Domain: possession\nSource Domain:","completion":" holding"}
+{"prompt":"Even in backruptcy he managed to hang onto his car collection.\nTarget Domain: possession\nSource Domain:","completion":" holding"}
+{"prompt":"He keeps a tight grip on his valuable stocks.\nTarget Domain: possession\nSource Domain:","completion":" holding"}
+{"prompt":"It is smooth sailing from here on in in the application process.\nTarget Domain: action\nSource Domain:","completion":" motion"}
+{"prompt":"We slogged through the application process.\nTarget Domain: action\nSource Domain:","completion":" motion"}
+{"prompt":"He successfully navigated her way through the contract negotiations.\nTarget Domain: action\nSource Domain:","completion":" motion"}
+{"prompt":"Time heals all wounds.\nTarget Domain: time\nSource Domain:","completion":" changer"}
+{"prompt":"Time had not been kind to him.\nTarget Domain: time\nSource Domain:","completion":" changer"}
+{"prompt":"Time had made her look old.\nTarget Domain: time\nSource Domain:","completion":" changer"}
+{"prompt":"He's a real wolf.\nTarget Domain: lust\nSource Domain:","completion":" animal"}
+{"prompt":"He looks like he's ready to pounce.\nTarget Domain: lust\nSource Domain:","completion":" animal"}
+{"prompt":"A tigress in bed.\nTarget Domain: lust\nSource Domain:","completion":" animal"}
+{"prompt":"Follow your reasoning where it takes you.\nTarget Domain: logic\nSource Domain:","completion":" path"}
+{"prompt":"Does your reasoning give you the answer you wanted?\nTarget Domain: logic\nSource Domain:","completion":" path"}
+{"prompt":"This argument yields the following conclusions.\nTarget Domain: logic\nSource Domain:","completion":" path"}
+{"prompt":"I am the richest man in the world: I have the love of my family.\nTarget Domain: wealth\nSource Domain:","completion":" well-being"}
+{"prompt":"The cynics of this world lead impoverished lives.\nTarget Domain: wealth\nSource Domain:","completion":" well-being"}
+{"prompt":"It is a poor man who has no love of himself.\nTarget Domain: wealth\nSource Domain:","completion":" well-being"}
+{"prompt":"A knotty problem.\nTarget Domain: problem\nSource Domain:","completion":" tangle"}
+{"prompt":"He unraveled the problem.\nTarget Domain: problem\nSource Domain:","completion":" tangle"}
+{"prompt":"He untangled the problem.\nTarget Domain: problem\nSource Domain:","completion":" tangle"}
+{"prompt":"He's really high.\nTarget Domain: euphoria\nSource Domain:","completion":" up"}
+{"prompt":"She's coming down\nTarget Domain: euphoria\nSource Domain:","completion":" up"}
+{"prompt":"He stuck by his word.\nTarget Domain: compliance\nSource Domain:","completion":" adherence"}
+{"prompt":"He adhered to his contract.\nTarget Domain: compliance\nSource Domain:","completion":" adherence"}
+{"prompt":"The adherents of that theory will soon be beaten out by new theorists.\nTarget Domain: debate\nSource Domain:","completion":" competition"}
+{"prompt":"A fierce battle is shaping up in modern philosophy.\nTarget Domain: debate\nSource Domain:","completion":" competition"}
+{"prompt":"Evolution is the leading biological theory\nTarget Domain: debate\nSource Domain:","completion":" competition"}
+{"prompt":"His reputation is besmirched.\nTarget Domain: morality\nSource Domain:","completion":" cleanliness"}
+{"prompt":"The magazine got the dirt about him.\nTarget Domain: morality\nSource Domain:","completion":" cleanliness"}
+{"prompt":"She doesn't want to get her hands dirty.\nTarget Domain: morality\nSource Domain:","completion":" cleanliness"}
+{"prompt":"We were made for each other.\nTarget Domain: love\nSource Domain:","completion":" part-whole"}
+{"prompt":"She is my better half.\nTarget Domain: love\nSource Domain:","completion":" part-whole"}
+{"prompt":"We are one.\nTarget Domain: love\nSource Domain:","completion":" part-whole"}
+{"prompt":"The detective set out to crack the case.\nTarget Domain: problem solving\nSource Domain:","completion":" container"}
+{"prompt":"The truth finally came out.\nTarget Domain: problem solving\nSource Domain:","completion":" container"}
+{"prompt":"He finally found the key to the problem.\nTarget Domain: problem solving\nSource Domain:","completion":" container"}
+{"prompt":"His job offer opened up new paths for me.\nTarget Domain: opportunities\nSource Domain:","completion":" path"}
+{"prompt":"Opportunity is an open door.\nTarget Domain: opportunities\nSource Domain:","completion":" path"}
+{"prompt":"I can go whichever I want with this project.\nTarget Domain: opportunities\nSource Domain:","completion":" path"}
+{"prompt":"The theory died out.\nTarget Domain: theories\nSource Domain:","completion":" beings"}
+{"prompt":"Many theories sprang up out of the fertile soil of his discoveries.\nTarget Domain: theories\nSource Domain:","completion":" beings"}
+{"prompt":"A new theory was given birth.\nTarget Domain: theories\nSource Domain:","completion":" beings"}
+{"prompt":"There's a deeper issue here.\nTarget Domain: importance\nSource Domain:","completion":" depth"}
+{"prompt":"Let's ignore all the details on the surface.\nTarget Domain: importance\nSource Domain:","completion":" depth"}
+{"prompt":"That's a profound problem.\nTarget Domain: importance\nSource Domain:","completion":" depth"}
+{"prompt":"I thought it was a tame course, but it turned into a bear.\nTarget Domain: difficult subjects\nSource Domain:","completion":" adversary"}
+{"prompt":"He successfully conquered the material.\nTarget Domain: difficult subjects\nSource Domain:","completion":" adversary"}
+{"prompt":"She wasn't able to tackle all the material, so he stayed behind.\nTarget Domain: difficult subjects\nSource Domain:","completion":" adversary"}
+{"prompt":"He had cold feet\nTarget Domain: fear\nSource Domain:","completion":" cold"}
+{"prompt":"A cold stab of fear went through me\nTarget Domain: fear\nSource Domain:","completion":" cold"}
+{"prompt":"Her blood ran cold\nTarget Domain: fear\nSource Domain:","completion":" cold"}
+{"prompt":"I'm hot to trot.\nTarget Domain: lust\nSource Domain:","completion":" heat"}
+{"prompt":"She was frigid.\nTarget Domain: lust\nSource Domain:","completion":" heat"}
+{"prompt":"I'm burning with desire.\nTarget Domain: lust\nSource Domain:","completion":" heat"}
+{"prompt":"I feel close to him.\nTarget Domain: intimacy\nSource Domain:","completion":" closeness"}
+{"prompt":"We're drifting apart.\nTarget Domain: intimacy\nSource Domain:","completion":" closeness"}
+{"prompt":"He keeps everyone at arms length.\nTarget Domain: intimacy\nSource Domain:","completion":" closeness"}
+{"prompt":"The belief lives on.\nTarget Domain: beliefs\nSource Domain:","completion":" beings"}
+{"prompt":"That belief was born of the early philosophers.\nTarget Domain: beliefs\nSource Domain:","completion":" beings"}
+{"prompt":"That belief died out years ago.\nTarget Domain: beliefs\nSource Domain:","completion":" beings"}
+{"prompt":"the contagion of democratic ideas\nTarget Domain: belief\nSource Domain:","completion":" disease"}
+{"prompt":"They quarantined the Japanese.\nTarget Domain: belief\nSource Domain:","completion":" disease"}
+{"prompt":"The children were infected with ideas about socialism.\nTarget Domain: belief\nSource Domain:","completion":" disease"}
+{"prompt":"He is under my power.\nTarget Domain: control\nSource Domain:","completion":" up"}
+{"prompt":"I have it all under control.\nTarget Domain: control\nSource Domain:","completion":" up"}
+{"prompt":"I'm on top of the situation.\nTarget Domain: control\nSource Domain:","completion":" up"}
+{"prompt":"She spends her time unwisely.\nTarget Domain: time\nSource Domain:","completion":" money"}
+{"prompt":"Time is money\nTarget Domain: time\nSource Domain:","completion":" money"}
+{"prompt":"The diversion should buy him some time.\nTarget Domain: time\nSource Domain:","completion":" money"}
+{"prompt":"This will test his mettle.\nTarget Domain: personality\nSource Domain:","completion":" substance"}
+{"prompt":"She is made of tougher stuff.\nTarget Domain: personality\nSource Domain:","completion":" substance"}
+{"prompt":"He has a heart of gold.\nTarget Domain: personality\nSource Domain:","completion":" substance"}
+{"prompt":"His thoughts are scattered.\nTarget Domain: coherence\nSource Domain:","completion":" whole"}
+{"prompt":"I'm missing a piece of the puzzle.\nTarget Domain: coherence\nSource Domain:","completion":" whole"}
+{"prompt":"The theory is all over the place.\nTarget Domain: coherence\nSource Domain:","completion":" whole"}
+{"prompt":"She recovered from the wound to her psyche, but scars remained.\nTarget Domain: harm\nSource Domain:","completion":" injury"}
+{"prompt":"My stock portfolio is very healthy.\nTarget Domain: harm\nSource Domain:","completion":" injury"}
+{"prompt":"Americans can expect painful cutbacks with the recession.\nTarget Domain: harm\nSource Domain:","completion":" injury"}
+{"prompt":"Let's keep moving forward on this experiment.\nTarget Domain: progress\nSource Domain:","completion":" motion"}
+{"prompt":"We need to backtrack on this problem.\nTarget Domain: progress\nSource Domain:","completion":" motion"}
+{"prompt":"Things are at a standstill.\nTarget Domain: progress\nSource Domain:","completion":" motion"}
+{"prompt":"They assembled a theory.\nTarget Domain: theories\nSource Domain:","completion":" part-whole"}
+{"prompt":"The theory was torn down brick by brick by its opponants.\nTarget Domain: theories\nSource Domain:","completion":" part-whole"}
+{"prompt":"One piece of the theory doesn't fit.\nTarget Domain: theories\nSource Domain:","completion":" part-whole"}
+{"prompt":"rays of light\nTarget Domain: light\nSource Domain:","completion":" line"}
+{"prompt":"Where is that light coming from?\nTarget Domain: light\nSource Domain:","completion":" line"}
+{"prompt":"Direct more light over here.\nTarget Domain: light\nSource Domain:","completion":" line"}
+{"prompt":"Our society is making great strides.\nTarget Domain: society\nSource Domain:","completion":" body"}
+{"prompt":"China finally stood up and was noticed.\nTarget Domain: society\nSource Domain:","completion":" body"}
+{"prompt":"nurse our nation back to health\nTarget Domain: society\nSource Domain:","completion":" body"}
+{"prompt":"She took inventory of her beliefs.\nTarget Domain: beliefs\nSource Domain:","completion":" commodities"}
+{"prompt":"I almost bought his line.\nTarget Domain: beliefs\nSource Domain:","completion":" commodities"}
+{"prompt":"He sold out his dearest beliefs.\nTarget Domain: beliefs\nSource Domain:","completion":" commodities"}
+{"prompt":"He is as pure as the driven snow.\nTarget Domain: morality\nSource Domain:","completion":" purity"}
+{"prompt":"She is of pure heart.\nTarget Domain: morality\nSource Domain:","completion":" purity"}
+{"prompt":"He launched the discussion.\nTarget Domain: ideas\nSource Domain:","completion":" projectiles"}
+{"prompt":"He hurled his criticisms at me, one after another.\nTarget Domain: ideas\nSource Domain:","completion":" projectiles"}
+{"prompt":"He heaved the whole issue onto me.\nTarget Domain: ideas\nSource Domain:","completion":" projectiles"}
+{"prompt":"The comedian knocked them over.\nTarget Domain: humor\nSource Domain:","completion":" injury"}
+{"prompt":"She nearly died of laughter.\nTarget Domain: humor\nSource Domain:","completion":" injury"}
+{"prompt":"That joke really slayed me.\nTarget Domain: humor\nSource Domain:","completion":" injury"}
+{"prompt":"That's a big discovery.\nTarget Domain: importance\nSource Domain:","completion":" size"}
+{"prompt":"He'll never amount to anything.\nTarget Domain: importance\nSource Domain:","completion":" size"}
+{"prompt":"He concentrates on little details.\nTarget Domain: importance\nSource Domain:","completion":" size"}
+{"prompt":"The magic is gone.\nTarget Domain: love\nSource Domain:","completion":" magic"}
+{"prompt":"She charmed him.\nTarget Domain: love\nSource Domain:","completion":" magic"}
+{"prompt":"She is bewitching.\nTarget Domain: love\nSource Domain:","completion":" magic"}
+{"prompt":"Others are not so well informed.\nTarget Domain: people\nSource Domain:","completion":" not metaphoric"}
+{"prompt":"And yet there are accidents.\nTarget Domain: accidents\nSource Domain:","completion":" not metaphoric"}
+{"prompt":"The friend found one at a garage.\nTarget Domain: buildings\nSource Domain:","completion":" not metaphoric"}
+{"prompt":"Mulching is a pleasant activity for October.\nTarget Domain: months \nSource Domain:","completion":" not metaphoric"}
+{"prompt":"Name badges are worn by staff.\nTarget Domain: badges\nSource Domain:","completion":" not metaphoric"}
+{"prompt":"Had it been stolen?\nTarget Domain: stealing\nSource Domain:","completion":" not metaphoric"}
+{"prompt":"He shrugged his narrow shoulders.\nTarget Domain: shoulders\nSource Domain:","completion":" not metaphoric"}
+{"prompt":"Madame snorted again.\nTarget Domain: snorting\nSource Domain:","completion":" not metaphoric"}
+{"prompt":"Even if you do not intend to be disloyal there is always the risk that you might be careless.\nTarget Domain: risk\nSource Domain:","completion":" not metaphoric"}
+{"prompt":"I want you to promise me here and now that you will not see Gary Oliver again.\nTarget Domain: seeing\nSource Domain:","completion":" not metaphoric"}
+{"prompt":"He once bought me a Louis Vuitton handbag.\nTarget Domain: buying\nSource Domain:","completion":" not metaphoric"}
+{"prompt":"Ours is actually a new house.\nTarget Domain: houses\nSource Domain:","completion":" not metaphoric"}
+{"prompt":"That's not my artwork on there, that's my little niece's artwork.\nTarget Domain: artwork\nSource Domain:","completion":" not metaphoric"}
+{"prompt":"People are coming to do some Christian teaching for us.\nTarget Domain: teaching \nSource Domain:","completion":" not metaphoric"}
+{"prompt":"But he he said,  don't wash it I wanna wear it.\nTarget Domain: washing\nSource Domain:","completion":" not metaphoric"}
