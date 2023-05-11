@@ -1,0 +1,138 @@
+,Target Domain,Source Domain,GPT3 Completion,Example,embedding_sim,KB_similarity
+0,intoxication,destruction, drugs,He is stoned.,0.15814395248889923,0.3609135866666667
+1,intoxication,destruction, physical,He is bombed.,0.30059927701950073,0.4073147875
+2,amount,size," size
+",Which of the two classes is bigger?,1.0,1.0
+3,amount,size, money,He only has a little money.,0.27159973978996277,0.4107121475
+4,beliefs,plants, seeds,This is just the seed of a belief.,0.40033993124961853,0.63828887
+5,beliefs,plants, plants,This belief has taken root in my mind.,1.0,1.0
+6,success,goal, writing,She finally reached the end of the dissertation-writing process.,0.13287538290023804,0.44405778
+7,success,goal, working,"After working on the application for days, I finally saw the light at the end of the tunnel.",0.2372850626707077,0.4398192166666667
+8,subjects,areas, occupation,He is in a difficult field.,0.2751004695892334,0.40667656
+9,subjects,areas, time,The scientists have covered a lot of ground in the last 100 years.,0.3152252733707428,0.36394241499999996
+10,disgust,nausea, not metaphoric,His behavior made me want to throw up.,0.06009673327207565,0.0
+11,emotion,object, person,He broke down in tears.,0.4180354177951813,0.3852581575
+12,mind,object, mental,His mind snapped.,0.21239042282104492,0.318517045
+13,opportunities,object, making,You have to make your own opportunities.,0.25500866770744324,0.3354840233333333
+14,problem,object, factors,A lot of factors went into creating this problem.,0.18556301295757294,0.55802506
+15,morality,accounting, repayment,I couldn't possibly repay your kindness.,0.19135703146457672,0.4077141166666667
+16,relationship,musical harmony, two people,Those two are really in synch.,0.2488899976015091,0.0
+17,harm,path, career,Her accident was an enormous setback to her career.,0.20903921127319336,0.36030274333333334
+18,morality,path, business,He's a crooked businessman.,0.1861584335565567,0.29060936
+19,creation,plants, metaphoric,Money is the root of all evil.,-0.09077154844999313,0.6291794
+20,people,plants, art,He's a budding artist.,0.11957729607820511,0.33543193
+21,time,moving object, movement,Time crept along.,0.3277096450328827,0.0
+22,schedule,moving object, work,Then he got ahead of schedule.,0.38996198773384094,0.0
+23,causation,money, not metaphoric,He paid with his life for my mistake.,0.27518129348754883,0.0
+24,states,locations, mental,What kind of a state was he in when you saw him?,0.12726561725139618,0.37019355499999995
+25,beliefs,lovers, physical body,He embraced that belief wholeheartedly.,0.09391403198242188,0.14138769
+26,lust,machine, cars,"I've got my motor runnin', baby.",0.29045185446739197,0.4185598333333333
+27,mind,machine, machinery,He slipped a cog.,0.43517592549324036,0.5358120900000001
+28,people,machine, health,Her ticker is weak.,0.060269132256507874,0.375372395
+29,force,moving object, hypnotism,The force of his hypnotic words had me in its grip.,-0.14748847484588623,0.0
+30,change,motion," person
+
+The target domain is depression, and the source domain is",He slipped into a depression.,0.27834224700927734,0.0
+31,ideas,motion, conclusions,Don't jump to conclusions.,0.1286691576242447,0.37078254499999996
+32,shape,motion, physical,The road bends.,0.28617486357688904,0.3645630275
+33,lover,possession, possession,You're all I've got.,0.9999998211860657,1.0
+34,beliefs,possessions, childhood,He acquired most of his beliefs during childhood.,0.15940873324871063,0.50213635
+35,harm,location, metaphorically thin ice,He's on thin ice.,0.0967736467719078,0.0
+36,laughter,substance, people,The audience was bursting with laughter.,0.16833513975143433,0.3403690425
+37,beliefs,support," person
+Extract the conceptual metaphor from the following sentence:
+Sent",He tried to undermine her belief.,0.4635103642940521,0.0
+38,problem,target, shooting,He took aim at the problem.,0.2971479594707489,0.350149145
+39,seeing,touching, eyes,I met his glance with my own.,0.2914087772369385,0.40891997
+40,existence,visibility, headaches,Suddenly my headache vanished.,0.18206223845481873,0.379453445
+41,darkness,solid, not metaphoric,We had to feel our way through the darkness.,0.16814546287059784,0.0
+42,competition,war, sports,We took over the ball deep in their territory.,0.11217842996120453,0.26154051333333334
+43,illness,war, physical,His body was under seige by AIDS.,0.12602916359901428,0.3146335775
+44,words,weapons, social interaction,That was pretty cutting language.,0.14571122825145721,0.2174266
+45,adversity,weather, economic,The economic forecast is favorable.,0.3039742410182953,0.3998253925
+46,communication,speech, non-metaphoric,He gave me a look that spoke volumes.,0.17266219854354858,0.0
+47,harm,possessions, car,My car gave me a lot of trouble yesterday.,0.12635163962841034,0.44780679
+48,obligations,possessions, person,He bears the responsibility for the success of this mission.,0.1399582177400589,0.4884652
+49,properties,possessions, substances,He lost his tolerance for alcohol.,0.11808467656373978,0.9730788
+50,responsibilities,possessions," person
+Extract the conceptual metaphor from the following sentence:
+Sent",He took all the credit.,0.132204070687294,0.0
+51,competitors,predators, the sea,You're moving into shark infested waters.,0.2071104794740677,0.0
+52,harm,prey," football
+Extract the conceptual metaphor from the following sentence:
+Sent","If that player goes in, he'll be dead meat!",0.12361454218626022,0.0
+53,competition,race, playing chess,"We've been playing chess for years, and he's finally pulling ahead of me.",0.21386665105819702,0.0
+54,conceit,size, inflated ego,She was puffed up with pride.,0.27530431747436523,0.14724241
+55,change,replacement, person,"Under hypnosis, the sweet old lady was replaced by a scheming criminal.",0.1430601179599762,0.38281080749999996
+56,time,resource, not metaphoric,Don't waste time.,0.16653142869472504,0.0
+57,understanding,seeing, waking up,She finally opened her eyes to what was going on around her.,0.5162301659584045,0.4684750033333333
+58,perception,shape, sizing,I sized him up.,0.16098855435848236,0.3805046725
+59,states,shapes, fitness,She's getting in shape.,0.05301568657159805,0.434084945
+60,thinking,accounting," numbers
+
+The conceptual metaphor in this sentence is that adding up to",This adds up to trouble.,0.24729543924331665,0.0
+61,problem,location, direction,I think we're headed in the right direction.,0.33973973989486694,0.4020321175
+62,existence,location, time,The baby is due any day.,0.3595200181007385,0.32254893
+63,meaning,container, speech,Your words seem rather hollow.,-0.037323638796806335,0.42189752
+64,sex,competition, baseball,He couldn't get to first base with her.,0.2935630977153778,0.4205800975
+65,body,container, metaphoric,He withdraws into himself.,-0.041786354035139084,0.388295725
+66,difficulties,container, a relationship,We're in this thing together.,0.1204211637377739,0.22364907
+67,investment,container, metaphoric,The bottom of the economy dropped out.,-0.041786354035139084,0.388295725
+68,obligations,container," work
+Extract the conceptual metaphor from the following sentence:
+Sent",Try to get out of those committments; don't let your boss box you in.,0.10691715776920319,0.0
+69,theories,cloth, data,The theory fit the data nicely.,0.0327618345618248,0.419536465
+70,time,container, century,We're well into the century.,0.06938435882329941,0.35701432666666666
+71,darkness,cover, metaphoric,He was enveloped in darkness.,-0.11755631119012833,0.477719935
+72,money,liquid, financial,cash flow,0.08311857283115387,0.42565187
+73,harm,destruction, a theory,The theory was cut to pieces.,0.21514472365379333,0.3106469
+74,strong emotion,blindness, vision,She was so angry she couldn't see straight.,0.3717135190963745,0.466405285
+75,active,alive, club,The club seems dead tonight,0.17248837649822235,0.2908744375
+76,people,batteries, energy,She was energized by the applause.,0.20491951704025269,0.40108355500000004
+77,mind,body, hand,It's in the palm of my hand.,0.4031307101249695,0.53388515
+78,problem,body of water, water,The murky waters of the investigation frustrated him.,0.7364566326141357,0.5387431375
+79,importance,centrality, location,What is central here?,0.048233937472105026,0.4132465733333333
+80,disparity,change, height,His girlfriends keep getting taller.,0.19993506371974945,0.334887595
+81,obligations,children, care,I thought you were going to take care of that problem.,0.5278761386871338,0.34518285666666665
+82,purpose,direction, person,He needs some direction.,0.23738636076450348,0.362400555
+83,facial expression,cover, not metaphoric,Put on a happy face.,0.2342517077922821,0.0
+84,defeat,drowning, water,He's barely staying afloat.,0.24168652296066284,0.41803476333333334
+85,emotion stability,grounding, physical location,He felt uprooted.,0.08213791996240616,0.25664338
+86,intelligence,light, a light,He can always shed light on the problem.,0.8142154812812805,0.0
+87,hope,light, brightness,He has bright hopes.,0.3016689717769623,0.41171807000000005
+88,amount,length, physical attractiveness,He's long on good looks.,0.17903849482536316,0.504554935
+89,time,landscape, the sky,Thanksgiving is looming on the horizen.,0.2869226038455963,0.48021835
+90,love,journey, wheels,This relationship has been spinning its wheels for years.,0.16844311356544495,0.34246316
+91,life,journey, sailing,He just sails through life.,0.3394639790058136,0.30012394
+92,love,insanity, people,I'm just wild about Harry.,0.055465806275606155,0.42119883
+93,desire,hunger, thirst,She thirsts for recognition.,0.5480709671974182,0.6385565166666667
+94,anger,heat, not metaphoric,He's just blowing off steam.,0.16808141767978668,0.0
+95,beliefs,guides, not metaphoric,There are misleading beliefs.,0.08846193552017212,0.0
+96,final state,goal, death,He's headed for an early death.,0.12173818051815033,0.47064234666666666
+97,emotion,force, physical environment,I was pushed into depression.,0.29824402928352356,0.20467414
+98,competition,fight, physical activity,I beat him at chess.,0.26315250992774963,0.31802386
+99,light,fluid, not metaphoric,He soaked up some sun.,0.18719437718391418,0.0
+100,ideas,food, food,Let me chew on that for a while.,1.0,1.0
+101,desire,force, metaphoric,Something in me pulls me toward the wrong kind of man.,-0.1576380729675293,0.41464681999999997
+102,communication,writing, interpretation,I read more into his actions than actually was there.,0.2749272584915161,0.50014181
+103,influence,force, physical force,She could bend his will.,0.7925252914428711,0.40761113
+104,end of action,goal, education,"Finally, all my educational goals are in reach.",0.22367006540298462,0.4620298233333333
+105,entrance,not metaphoric, physical,Well you just go to the front entrance,0.3615139126777649,0.0
+106,sitting,not metaphoric, not metaphoric,When he was little he was sat in his buggy.,1.0,1.0
+107,knowing,not metaphoric, not metaphoric,Yeah I know.,1.0,1.0
+108,watching,not metaphoric, metaphoric,Then I do normally watch it with you.,0.6695057153701782,0.0
+109,eating,not metaphoric, time,When did you eat when did you eat your chips?,0.2975147068500519,0.0
+110,seeing,not metaphoric, Brittany,We have seen Brittany.,0.0,0.0
+111,desk,not metaphoric, people,Some else is sitting at their desk?,0.29210978746414185,0.0
+112,getting,not metaphoric, vegetables,Where do you get your carrots from?,0.06926625967025757,0.0
+113,rooms,not metaphoric, not metaphoric,But the upstairs one that is the kitchen is a bit smaller.,1.0,1.0
+114,youth,not metaphoric, memories,Old men remembering their youth.,0.1719200611114502,0.0
+115,missing ,not metaphoric, people,We are trying to find our missing scientist now.,0.29210978746414185,0.0
+116,bells ,not metaphoric, physical objects,The doorbell sounded.,0.400832861661911,0.0
+117,time ,not metaphoric, education,Four hours of instruction a day for two weeks.,0.11061318218708038,0.0
+118,listening,not metaphoric," person
+
+The inspector was not paying attention.",The inspector was not listening.,0.4542767107486725,0.0
+119,belief,not metaphoric," people
+
+The target domain is belief, and the source domain is",He had not prayed for Ann Maguire.,0.4164586365222931,0.0

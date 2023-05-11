@@ -1,0 +1,249 @@
+,Target Domain,Source Domain,GPT3 Completion,Example,embedding_sim,KB_similarity,Annotator 1 (L),,Annotator 2 (D),,Final Annotation,,Error Code
+0,intoxication,destruction,shipwreck,He was wrecked.,0.10,0.35,1,,1,,1,,
+1,intoxication,destruction,violence,He got thrashed.,0.37,0.33,1,,1,,1,,
+2,amount,size,breakable object,Can you break a twenty?,0.16,0.31,1,,1,,1,,
+3,amount,size,size,I'm not a big eater.,1.00,1.00,1,,1,,1,,
+4,beliefs,plants,seeds,I planted the belief in his mind.,0.40,0.64,1,,1,,1,,
+5,beliefs,plants,plants,This is a flourishing belief in this culture.',1.00,1.00,1,,1,,1,,
+6,success,goal,motion,We've made it this far in our efforts to solve the problem.,0.07,0.42,1,,1,,1,,
+7,success,goal,distance,We only have a short ways to go on solving this puzzle.,0.21,0.51,1,,1,,1,,
+8,subjects,areas,land,The researchers surveyed the new material.,0.50,0.35,1,,1,,1,,
+9,subjects,areas,land,"Your dissertation should stake out new territory, preferably virgin territory.",0.50,0.35,1,,1,,1,,
+10,disgust,nausea,disease,You make me sick!,0.31,0.41,1,,1,,1,,
+11,disgust,nausea,sickness,She's a nauseating person.,0.52,0.61,1,,1,,1,,
+12,emotion,object,breakable object,She was shattered by his death.,0.76,0.37,1,,1,,1,,
+13,emotion,object,physical structure,She fell apart.,0.44,0.20,1,,1,,1,,
+14,mind,object,object,He cracked up.,1.00,1.00,1,,1,,1,,
+15,mind,object,object,He's mentally fragile.,1.00,1.00,1,,1,,1,,
+16,opportunities,object,objects in motion,Don't let the opportunity pass you by.,0.62,0.00,1,,1,,1,,
+17,opportunities,object,jobs,I took the job when it became available.,0.08,0.32,0,,0,,0,,wrong with trigger
+18,problem,object,object,Let's look at the make-up of this problem.,1.00,1.00,1,,1,,1,,
+19,problem,object,object,He tore the problem apart looking for its solution.,1.00,1.00,1,,1,,1,,
+20,morality,accounting,debt,You have to pay for your mistakes.,0.29,0.51,1,,1,,1,,
+21,morality,accounting,debt,I'll make it up to everyone for what I've done.,0.29,0.51,1,,1,,1,,
+22,relationship,musical harmony,music,They had a harmonious relationship.,0.62,0.49,1,,1,,1,,
+23,relationship,musical harmony,music,They are out of tune with each other.,0.62,0.49,1,,1,,1,,
+24,harm,path,obstacles,How am I supposed to learn anything if the school keeps placing roadblocks in my way?,0.34,0.39,1,,1,,1,,
+25,harm,path,weight,It's hard to reach the top when you're saddled with an unwanted baby.,0.15,0.35,1,,1,,1,,
+26,morality,path,physical straightness,I think he's being straight with me.,0.18,0.00,1,,1,,1,,
+27,morality,path,movement,She has strayed.,0.32,0.43,1,,1,,1,,
+28,creation,plants,planting,He planted seeds of doubt in my mind.,0.38,0.57,1,,1,,1,,
+29,creation,plants,land,China is a fertile ground for revolt.,0.27,0.42,0,,1,,0,,wrong subelement
+30,people,plants,flowers,She's a late bloomer.,0.42,0.62,1,,1,,1,,
+31,people,plants,animals,The grim reaper.,0.42,0.63,0,,0,,0,,wrong without trigger
+32,time,moving object,motion,Thursday passed without incident.,0.45,0.00,1,,1,,1,,
+33,time,moving object,motion,What events are up ahead?,0.45,0.00,1,,1,,1,,
+34,schedule,moving object,people,He finally caught up to schedule.,0.33,0.00,1,,0,,0,,too specific
+35,schedule,moving object,pace,The class was trying to keep up with the schedule.,0.25,0.00,0,,1,,1,,
+36,causation,money,commerce,He profitted from experience.,0.19,0.36,1,,0,,1,,
+37,causation,money,punishment,Reckless skiing cost her a leg.,0.26,0.44,0,,0,,0,,wrong without trigger
+38,states,locations,location,He is in love.,0.72,0.54,1,,1,,1,,
+39,states,locations,locations,He is at a certain stage in his studies.,1.00,1.00,1,,1,,1,,
+40,beliefs,lovers,flirtation,He flirted with a belief in utter hedonism in his youth.,0.23,0.44,1,,1,,1,,
+41,beliefs,lovers,sex,That's a seductive belief.,0.32,0.42,1,,1,,1,,
+42,lust,machine,machine,You turn me on.,1.00,1.00,1,,1,,1,,
+43,lust,machine,machine,"Turn my crank, baby.",1.00,1.00,1,,1,,1,,
+44,mind,machine,machine,He has a screw loose.,1.00,1.00,1,,1,,1,,
+45,mind,machine,machine,He churns out ideas.,1.00,1.00,1,,1,,1,,
+46,people,machine,machines,He had a breakdown.,0.75,0.39,1,,1,,1,,
+47,people,machine,machines,Fuel up with a good breakfast.,0.75,0.39,1,,1,,1,,
+48,force,moving object,evil,Greed is the strongest evil force at work in the world today.,0.20,0.00,0,,0,,0,,wrong with trigger
+49,force,moving object,weight,The force of gravity on the moon is much weaker.,0.30,0.00,0,,1,,0,,should be non-metaphoric
+50,change,motion,good-bad,He went from innocent to worldly.,0.00,0.00,0,,0,,0,,too specific
+51,change,motion,color,His hair went gray.,0.23,0.36,0,,0,,0,,wrong with trigger
+52,ideas,motion,children,I'm playing with the idea of a trip to Hawaii.,0.10,0.29,1,,0,,0,,wrong with trigger
+53,ideas,motion,vehicles,She's got a one-track mind,0.14,0.32,1,,1,,1,,
+54,shape,motion,not metaphoric,The tower leans.,0.18,0.00,0,,0,,0,,should be metaphoric
+55,shape,motion,not metaphoric,The roof slopes down before it drops off steeply.,0.18,0.00,0,,0,,0,,should be metaphoric
+56,lover,possession,possession,My friend stole my loved one from me.,1.00,1.00,1,,1,,1,,
+57,lover,possession,possession,I'm going to get him back.,1.00,1.00,1,,1,,1,,
+58,beliefs,possessions,possessions,She clings to his beliefs.,1.00,1.00,1,,1,,1,,
+59,beliefs,possessions,commodities,I briefly toyed with a belief in a higher power.,0.13,0.69,1,,1,,1,,
+60,harm,location,being in a container,I am in trouble.,0.41,0.00,1,,1,,1,,
+61,harm,location,motion,They're driving me over the edge.,0.19,0.33,1,,1,,1,,
+62,laughter,substance,water,You can't get a single joke out of him.,0.25,0.44,0,,1,,0,,too specific
+63,laughter,substance,violence,He was ripping with laughter.,0.23,0.34,1,,1,,1,,
+64,beliefs,support,structure,He chipped away at the foundation for her beliefs.,0.24,0.44,1,,1,,1,,
+65,beliefs,support,objects,What view does he uphold?,0.16,0.36,1,,1,,1,,
+66,problem,target,object,The mayor targetted the problem of homelessness.,0.36,0.41,1,,1,,1,,
+67,problem,target,war,He spearheaded the investigation.,0.19,0.29,1,,1,,1,,
+68,seeing,touching,touching,I couldn't take my eyes off of him.,1.00,1.00,1,,1,,1,,
+69,seeing,touching,picking,Her eyes picked out a detail in the pattern.,0.21,0.35,1,,1,,1,,
+70,existence,visibility,birth,New problems keep appearing.,0.07,0.31,0,,1,,0,,wrong without trigger
+71,existence,visibility,light,The controversy eventually faded away.,0.27,0.33,1,,1,,1,,
+72,darkness,solid,physical object,The darkness was palpable.,0.30,0.33,1,,1,,1,,
+73,darkness,solid,weight,Darkness pressed in on all sides.,0.29,0.48,1,,1,,1,,
+74,competition,war,war,The debate team brought out their big guns.,1.00,1.00,1,,1,,1,,
+75,competition,war,war,They battled each other over the chess board every week.,1.00,1.00,1,,1,,1,,
+76,illness,war,invasion,The disease infiltrates your body and takes over.,0.54,0.45,1,,1,,1,,
+77,illness,war,dirt,The doctors tried to wipe out the infection.,0.08,0.32,0,,0,,0,,wrong with trigger
+78,words,weapons,weapons,She used some sharp words.,1.00,1.00,1,,1,,1,,
+79,words,weapons,weapons,He hurled insults at her.,1.00,1.00,1,,1,,1,,
+80,adversity,weather,climate,The climate is right for a takeover.,0.51,0.50,1,,1,,1,,
+81,adversity,weather,rain,It rained on my parade.,0.60,0.51,1,,1,,1,,
+82,communication,speech,pictures,A picture is worth a thousand words.,0.13,0.32,0,,1,,0,,wrong with trigger
+83,communication,speech,speech,What does that painting say to you?,1.00,1.00,1,,1,,1,,
+84,harm,possessions,sound,The noise gave him a headache.,0.01,0.50,0,,0,,0,,wrong with trigger
+85,harm,possessions,health,"If you don't have your health, what have you got?",-0.01,0.53,0,,0,,0,,wrong with trigger
+86,obligations,possessions,weight,He's carrying a heavy load at work.,0.09,0.44,1,,1,,1,,
+87,obligations,possessions,objects,I dumped that project in his lap.,0.28,0.69,1,,1,,1,,
+88,properties,possessions,not metaphoric,She has a nice sense of humor.,0.06,0.00,0,,0,,0,,should be metaphoric
+89,properties,possessions,family,He got his red hair from his mother.,0.29,0.50,0,,0,,0,,wrong with trigger
+90,responsibilities,possessions,weight,I was the one who got the blame.,0.09,0.44,0,,1,,0,,wrong without trigger
+91,responsibilities,possessions,sticky substances,They made the charges stick.,0.09,0.00,1,,1,,1,,
+92,competitors,predators,animals,I said one thing and they pounced on me like a pack of dingos.,0.42,0.61,1,,1,,1,,
+93,competitors,predators,animals,The conference room is a real snake pit today.,0.42,0.61,1,,1,,1,,
+94,harm,prey,animal,I feel like a little fish surrounded by sharks.,0.33,0.39,1,,1,,1,,
+95,harm,prey,hunting,The FBI lay in wait of their quarry for days.,0.37,0.48,1,,1,,1,,
+96,competition,race,war,The arms race.,0.26,0.39,0,,1,,0,,wrong with trigger
+97,competition,race,motion,"He's a better writer than I am, and he's widening the distance.",0.11,0.33,1,,1,,1,,
+98,conceit,size,clothing,He's a stuffed shirt.,0.22,0.41,1,,1,,1,,
+99,conceit,size,size,He was becoming quite grandiose when I left.,1.00,1.00,1,,1,,1,,
+100,change,replacement,not metaphoric,"After the experiment, the water was gone, and hydrogen and oxygen was in its place.",0.16,0.00,0,,1,,1,,
+101,change,replacement,death,"The man I had known was gone, and in his place was an aging fool.",0.13,0.38,1,,1,,1,,
+102,time,resource,resources,We're almost out of time.,0.76,0.46,1,,1,,1,,
+103,time,resource,commodity,Find a better use for your time.,0.39,0.46,1,,1,,1,,
+104,understanding,seeing,light,Can you shed more light on this issue? I don't quite see what you are talking about.,0.31,0.33,1,,1,,1,,
+105,understanding,seeing,seeing,He sees only what he wants to see.,1.00,1.00,1,,1,,1,,
+106,perception,shape,puzzle,I can't figure him out.,0.26,0.46,1,,1,,1,,
+107,perception,shape,light,He cuts a splendid figure.,0.27,0.42,0,,1,,0,,wrong with trigger
+108,states,shapes,objects,He doesn't fit in.,0.49,0.61,1,,1,,1,,
+109,states,shapes,objects,He let the punishment fit the crime,0.49,0.61,1,,1,,1,,
+110,thinking,accounting,putting things together,I can put two and two together.,0.16,0.00,1,,0,,1,,
+111,thinking,accounting,accounting,How do you account for this fact?,1.00,1.00,1,,1,,1,,
+112,problem,location,territory,Let's map out the problem before we do anything else.,0.25,0.53,1,,1,,1,,
+113,problem,location,distance,How close are we to finding a solution?,0.39,0.49,1,,1,,1,,
+114,existence,location,motion,It came into existence.,0.19,0.33,0,,1,,0,,wrong subelement
+115,existence,location,not metaphoric,The question simply doesn't arise here.,0.21,0.00,0,,0,,0,,should be metaphoric
+116,meaning,container,container,He found the knowledge in a new book.,1.00,1.00,1,,1,,1,,
+117,meaning,container,weight,Harry does not exactly overload his paragraphs with thought.,0.15,0.48,1,,1,,1,,
+118,sex,competition,sports,Did you score last night?,0.34,0.32,1,,1,,1,,
+119,sex,competition,war,She surrendered to him.,0.18,0.59,1,,1,,1,,
+120,body,container,container,He's a young man trapped in an old man's body.,1.00,1.00,1,,1,,1,,
+121,body,container,person,"Once you get past his rude exterior, you'll find a warm and caring person inside.",0.13,0.34,1,,0,,0,,too literal
+122,difficulties,container,physical movement,How did I get myself into this situation?,0.08,0.10,0,,1,,0,,wrong subelement
+123,difficulties,container,place,How do we get out of this situation?,0.20,0.38,1,,0,,1,,
+124,investment,container,putting,Put your money in bonds.,0.16,0.35,1,,0,,1,,
+125,investment,container,money,I'm down to my bottom dollar.,0.09,0.39,0,,0,,0,,too literal
+126,obligations,container,prison,Can you get out of doing the dishes?,0.09,0.33,1,,1,,1,,
+127,obligations,container,being in a physical space,He trapped her into going with him.,0.22,0.00,1,,1,,1,,
+128,theories,cloth,fabric,A finely woven theory.,0.69,0.66,1,,1,,1,,
+129,theories,cloth,beings,Let's look at the naked facts.,0.04,0.48,1,,1,,1,,
+130,time,container,space,He did it in three minutes.,0.23,0.45,1,,1,,1,,
+131,time,container,space,He's like something out of the last century.,0.23,0.45,1,,1,,1,,
+132,darkness,cover,not metaphoric,Under cover of darkness.,0.23,0.00,0,,0,,0,,should be metaphoric
+133,darkness,cover,envelopment,Darkness closed in over us.,-0.02,0.38,1,,1,,1,,
+134,money,liquid,water,My money is all dried up.,0.47,0.56,1,,1,,1,,
+135,money,liquid,liquid,Don't pour your money down the drain.,1.00,1.00,1,,1,,1,,
+136,harm,destruction,pressure,He crushed the rebellion.,0.16,0.36,1,,1,,1,,
+137,harm,destruction,car accident,She wrecked our marriage.,0.16,0.35,1,,1,,1,,
+138,strong emotion,blindness,physical impairment,He was blinded by love.,0.38,0.52,1,,1,,1,,
+139,strong emotion,blindness,light,They were dazzled with excitement.,0.17,0.38,1,,1,,1,,
+140,active,alive,living,The party was really alive,0.35,0.47,1,,1,,1,,
+141,active,alive,not metaphoric,"Lively, liven (lexical examples)",0.21,0.00,1,,1,,1,,
+142,people,batteries,machines,I'm all charged up and full of energy.,0.28,0.60,1,,1,,1,,
+143,people,batteries,machines,I need a jump start on Monday mornings,0.28,0.60,1,,1,,1,,
+144,mind,body,body,His mind is strong and supple.,1.00,1.00,1,,1,,1,,
+145,mind,body,space,The idea just slipped through my fingers.,0.23,0.40,0,,1,,0,,too general
+146,problem,body of water,water,He dived right into the problem.,0.74,0.54,1,,1,,1,,
+147,problem,body of water,container,He kept coming up empty.,0.25,0.50,1,,1,,1,,
+148,importance,centrality,clothing,Let's strip away all the unimportant details.,-0.05,0.36,0,,1,,0,,wrong subelement
+149,importance,centrality,center-periphery,That's just a peripheral issue.,0.00,0.00,1,,1,,1,,
+150,disparity,change,not metaphoric,The phone poles get taller as you approach the freeway.,0.32,0.00,0,,0,,0,,should be metaphoric
+151,disparity,change,time,The president changes every four years.,0.53,0.37,0,,0,,0,,wrong with trigger
+152,obligations,children,children,The setting of salaries is his baby.,1.00,1.00,1,,1,,1,,
+153,obligations,children,children,He's been neglecting his duties.,1.00,1.00,1,,1,,1,,
+154,purpose,direction,motion,He is just floating around.,0.37,0.49,1,,1,,1,,
+155,purpose,direction,motion,She is a drifter with no direction.,0.37,0.49,1,,1,,1,,
+156,facial expression,cover,surface,Wipe that smile off your face.,0.31,0.46,0,,1,,0,,wrong subelement
+157,facial expression,cover,object,The disquiteting expression was lifted from her face.,0.19,0.40,1,,1,,1,,
+158,defeat,drowning,water,I'm just trying to keep my head above water.,0.24,0.42,1,,1,,1,,
+159,defeat,drowning,water,Try not to get in over your head.,0.24,0.42,1,,1,,1,,
+160,emotion stability,grounding,physical stability,She has her feet on the ground.,0.14,0.00,1,,1,,1,,
+161,emotion stability,grounding,up,I'm up in the air.,0.05,0.31,0,,0,,0,,wrong subelement
+162,intelligence,light,light,He is very bright.,1.00,1.00,1,,1,,1,,
+163,intelligence,light,light,I always thought he was a little dim.,1.00,1.00,1,,1,,1,,
+164,hope,light,light,The clouds were a glimmer of hope that rain might come.,1.00,1.00,1,,1,,1,,
+165,hope,light,light,I have a very dim hope that he'll recover.,1.00,1.00,1,,1,,1,,
+166,amount,length,height,He's short of money.,0.55,0.61,1,,1,,1,,
+167,amount,length,height,He's short on intelligence.,0.55,0.61,1,,1,,1,,
+168,time,landscape,motion,We're coming up on Xmas.,0.14,0.38,1,,1,,1,,
+169,time,landscape,motion,He didn't make it to Tuesday.,0.14,0.38,1,,1,,1,,
+170,love,journey,journey,They are at a crossroads in their relationship.,1.00,1.00,1,,1,,1,,
+171,love,journey,journey,Their marriage has really gone off the track.,1.00,1.00,1,,1,,1,,
+172,life,journey,journey,"I don't know where I'm headed, but I'm enjoying getting there.",1.00,1.00,1,,1,,1,,
+173,life,journey,journey,He's headed for great things.,1.00,1.00,1,,1,,1,,
+174,love,insanity,disease,He raves about her.,0.14,0.36,1,,1,,1,,
+175,love,insanity,insanity,She is madly in love.,1.00,1.00,1,,1,,1,,
+176,desire,hunger,hunger,He was drooling over her.,1.00,1.00,1,,1,,1,,
+177,desire,hunger,hunger,He hungers for her touch.,1.00,1.00,1,,1,,1,,
+178,anger,heat,heat,She's a real hothead.,1.00,1.00,1,,1,,1,,
+179,anger,heat,fire,His eyes smouldered with rage.,0.31,0.47,1,,1,,1,,
+180,beliefs,guides,government,You are governed by your beliefs.,0.06,0.33,1,,1,,1,,
+181,beliefs,guides,road,You go by your beliefs.,0.14,0.42,1,,1,,1,,
+182,final state,goal,motion,I ended up exhausted.,0.07,0.42,0,,0,,0,,wrong subelement
+183,final state,goal,motion,His reckless investments are taking him into backruptcy.,0.07,0.42,0,,1,,0,,wrong subelement
+184,emotion,force,motion,I was moved by the poem.,0.26,0.41,1,,1,,1,,
+185,emotion,force,motion,She was carried away by the song.,0.26,0.41,1,,1,,1,,
+186,competition,fight,violence,He clobbered me at tennis.,0.40,0.41,1,,1,,1,,
+187,competition,fight,war,Those swim teams have been slugging it out all season.,0.45,0.58,1,,1,,1,,
+188,light,fluid,liquid,Sunlight poured into the room.,0.51,0.58,1,,1,,1,,
+189,light,fluid,liquid,Pools of light were scattered across the clearing.,0.51,0.58,1,,1,,1,,
+190,ideas,food,food,She gave us some brain food.,1.00,1.00,1,,1,,1,,
+191,ideas,food,beings,We have a live satellite feed from London.,0.19,0.43,1,,0,,1,,
+192,desire,force,magnet,They were drawn to each other.,0.08,0.45,1,,1,,1,,
+193,desire,force,electricity,I could feel the electricity between us.,0.20,0.37,1,,1,,1,,
+194,communication,writing,text,His guilt was written all over his face.,0.41,0.48,1,,1,,1,,
+195,communication,writing,writing,Do I have to spell it out for you?,1.00,1.00,1,,1,,1,,
+196,influence,force,force,He can exert his influence on her.,1.00,1.00,1,,1,,1,,
+197,influence,force,force,Reagan brought pressure to bear upon his cabinet.,1.00,1.00,1,,1,,1,,
+198,end of action,goal,end of a journey,We are reaching the end of the house-buying process.,0.37,0.00,1,,1,,1,,
+199,end of action,goal,death,We are entering the last stages of filing for bankrupcy.,0.12,0.47,0,,1,,1,,
+200,getting,eating,giving,Cough up the money you owe me!,0.28,0.38,0,,0,,0,,wrong without trigger
+201,getting,eating,feeding,I've been feeding him funds illegally for a year.,0.47,0.55,0,,1,,0,,wrong subelement
+202,problem,path,journey,Let's follow this line of thinking.,0.47,0.49,1,,1,,1,,
+203,problem,path,off-track,Let's get our thinking back on track.,-0.12,0.35,1,,1,,1,,
+204,intoxication,electrification,electricity,He was wired.,0.32,0.64,1,,1,,1,,
+205,intoxication,electrification,light,He was lit.,0.09,0.38,1,,1,,1,,
+206,emotion,heat,heat,The crowd was all fired up.,1.00,1.00,1,,1,,1,,
+207,emotion,heat,fire,He had a burning emotion.,0.31,0.47,1,,1,,1,,
+208,affection,warmth,temperature,They gave me a warm welcome.,0.35,0.45,1,,1,,1,,
+209,affection,warmth,temperature,He took a while to warm up to me.,0.35,0.45,1,,1,,1,,
+210,compliance,following,motion,He went along with what he was told to do.,0.21,0.35,1,,1,,1,,
+211,compliance,following,movement,He followed his orders.,0.29,0.36,1,,1,,1,,
+212,ideas,container,objects,I can't get this idea out of my mind.,0.23,0.35,1,,1,,1,,
+213,ideas,container,objects,What did you have in mind?,0.23,0.35,1,,1,,1,,
+214,more,up,up,The number of people living in poverty went up.,1.00,1.00,1,,1,,1,,
+215,more,up,up,Can you please decrease the number of assignments?,1.00,1.00,1,,1,,1,,
+216,ideas,object,children,Sally gave the idea to Sam.,0.16,0.34,0,,0,,0,,wrong without trigger
+217,ideas,object,commodities,IBM bought the idea from him.,-0.01,0.35,1,,1,,1,,
+218,strong emotion,insanity,mental illness,He's out of his mind with grief.,0.43,0.59,1,,1,,1,,
+219,strong emotion,insanity,physical pain,I'm mad with jealousy.,0.23,0.35,0,,1,,0,,wrong without trigger
+220,intoxication,burden,heavy,She was loaded.,0.40,0.35,1,,1,,1,,
+221,intoxication,burden,tank,She was tanked up.,0.05,0.32,0,,0,,0,,wrong with trigger
+222,rational,up,"up
+Extract the conceptual metaphor from the following sentence:
+Sent","The discussion fell to the emotional level, but I raised it back up to the rational plane.",0.68,0.00,1,,1,,1,,
+223,rational,up,"up
+Extract the conceptual metaphor from the following sentence:
+Sent",He couldn't rise above his emotions.,0.68,0.00,1,,1,,1,,
+224,excitement,insanity,driving,The excitement is driving me over the edge.,0.16,0.38,1,,0,,1,,
+225,death,not metaphoric,hearing,The day of the hearing of her second case she had been found dead.,0.21,0.00,0,,0,,0,,should be non-metaphoric
+226,emotions,not metaphoric,physical reactions,I was shocked for a minute.,0.33,0.00,0,,1,,1,,
+227,moving,not metaphoric,coming,They saw Daniel advancing.,0.29,0.00,0,,0,,0,,should be non-metaphoric
+228,memories,not metaphoric,objects,There was nothing in his house to remind him of Ecalpemos.,0.30,0.00,0,,0,,0,,should be non-metaphoric
+229,sleep,not metaphoric,death,She was almost asleep.,0.24,0.00,0,,0,,0,,should be non-metaphoric
+230,family,not metaphoric,not metaphoric,"Adam sat in his parents' house, drinking tea.",1.00,1.00,1,,1,,1,,
+231,newspapers,not metaphoric,not metaphoric,He did not even see an English newspaper.,1.00,1.00,1,,1,,1,,
+232,liking,not metaphoric,not metaphoric,I don't like Miss Fitch.,1.00,1.00,1,,1,,1,,
+233,understanding,not metaphoric,seeing,I don't understand business.,0.28,0.00,0,,0,,0,,should be non-metaphoric
+234,distance,not metaphoric,time,They ought to be near him soon.,0.30,0.00,0,,0,,0,,should be non-metaphoric
+235,doors,not metaphoric,not metaphoric,And don't try and get the door open.,1.00,1.00,1,,1,,1,,
+236,scanning,not metaphoric,not metaphoric,Lawton scanned upwards.,1.00,1.00,1,,1,,1,,
+237,distance,not metaphoric,time,The further away the better.,0.30,0.00,0,,0,,0,,should be non-metaphoric
+238,arriving,not metaphoric,not metaphoric,Lawton came and crouched down in front of it.,1.00,1.00,1,,1,,1,,
+239,ideas,not metaphoric,food,I think it 's a good idea.,0.15,0.00,0,,0,,0,,should be non-metaphoric
+240,communication,not metaphoric,not metaphoric,Nobody spoke immediately.,1.00,1.00,1,,1,,1,,
+241,results,not metaphoric,output,Output from the system is both tabular and graphical .,0.12,0.00,0,,0,,0,,should be non-metaphoric
+242,paths,not metaphoric,people,Chosen routes were those which minimized population rather than distance.,0.29,0.00,0,,0,,0,,should be non-metaphoric
+243,property,not metaphoric,commodities,Are we to sell our cattle or our land?,0.04,0.00,0,,0,,0,,should be non-metaphoric

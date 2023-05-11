@@ -1,2 +1,5 @@
 GPT3.txt
 Data/LCC_Metaphor_Dataset.small/*
+wandb/*
+Images/*
+Test Results/Source Completion/FewShot(old)/*

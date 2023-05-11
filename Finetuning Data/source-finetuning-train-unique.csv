@@ -1,0 +1,103 @@
+prompt,completion
+"I've lost all hope of a solution.
+Target Domain: hope
+Source Domain:", possessions END
+"I was moved by the poem.
+Target Domain: emotion
+Source Domain:", motion END
+"You have to weigh the pros and cons.
+Target Domain: comparison
+Source Domain:", scale END
+"He's been trying to get his hands on the property for years.
+Target Domain: possession
+Source Domain:", holding END
+"Time heals all wounds.
+Target Domain: time
+Source Domain:", changer END
+"He's a real wolf.
+Target Domain: lust
+Source Domain:", animal END
+"Follow your reasoning where it takes you.
+Target Domain: logic
+Source Domain:", path END
+"I am the richest man in the world: I have the love of my family.
+Target Domain: wealth
+Source Domain:", well-being END
+"A knotty problem.
+Target Domain: problem
+Source Domain:", tangle END
+"He's really high.
+Target Domain: euphoria
+Source Domain:", up END
+"He stuck by his word.
+Target Domain: compliance
+Source Domain:", adherence END
+"The adherents of that theory will soon be beaten out by new theorists.
+Target Domain: debate
+Source Domain:", competition END
+"His reputation is besmirched.
+Target Domain: morality
+Source Domain:", cleanliness END
+"We were made for each other.
+Target Domain: love
+Source Domain:", part-whole END
+"The detective set out to crack the case.
+Target Domain: problem solving
+Source Domain:", container END
+"The theory died out.
+Target Domain: theories
+Source Domain:", beings END
+"There's a deeper issue here.
+Target Domain: importance
+Source Domain:", depth END
+"I thought it was a tame course, but it turned into a bear.
+Target Domain: difficult subjects
+Source Domain:", adversary END
+"He had cold feet
+Target Domain: fear
+Source Domain:", cold END
+"I'm hot to trot.
+Target Domain: lust
+Source Domain:", heat END
+"I feel close to him.
+Target Domain: intimacy
+Source Domain:", closeness END
+"the contagion of democratic ideas
+Target Domain: belief
+Source Domain:", disease END
+"She spends her time unwisely.
+Target Domain: time
+Source Domain:", money END
+"This will test his mettle.
+Target Domain: personality
+Source Domain:", substance END
+"His thoughts are scattered.
+Target Domain: coherence
+Source Domain:", whole END
+"She recovered from the wound to her psyche, but scars remained.
+Target Domain: harm
+Source Domain:", injury END
+"rays of light
+Target Domain: light
+Source Domain:", line END
+"Our society is making great strides.
+Target Domain: society
+Source Domain:", body END
+"She took inventory of her beliefs.
+Target Domain: beliefs
+Source Domain:", commodities END
+"He is as pure as the driven snow.
+Target Domain: morality
+Source Domain:", purity END
+"He launched the discussion.
+Target Domain: ideas
+Source Domain:", projectiles END
+"That's a big discovery.
+Target Domain: importance
+Source Domain:", size END
+"The magic is gone.
+Target Domain: love
+Source Domain:", magic END
+"Others are not so well informed.
+Target Domain: people
+Source Domain:", not metaphoric END

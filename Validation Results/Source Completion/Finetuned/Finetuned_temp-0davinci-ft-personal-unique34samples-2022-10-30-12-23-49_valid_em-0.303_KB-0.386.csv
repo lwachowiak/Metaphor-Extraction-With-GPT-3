@@ -1,0 +1,361 @@
+,Unnamed: 0,Unnamed: 0.1,index,prompt,completion,GPT3 Completion,embedding_sim,KB_similarity
+0,0,0,0,"He is stoned.
+Target Domain: intoxication
+Source Domain:", destruction END, substance,0.18533268570899963,0.380007895
+1,1,1,1,"He is bombed.
+Target Domain: intoxication
+Source Domain:", destruction END, bomb,0.308318167924881,0.36836793999999995
+2,2,2,2,"Which of the two classes is bigger?
+Target Domain: amount
+Source Domain:", size END, size,1.0,1.0
+3,3,3,3,"He only has a little money.
+Target Domain: amount
+Source Domain:", size END, size,1.0,1.0
+4,4,4,4,"This is just the seed of a belief.
+Target Domain: beliefs
+Source Domain:", plants END, seeds,0.40033993124961853,0.63828887
+5,5,5,5,"This belief has taken root in my mind.
+Target Domain: beliefs
+Source Domain:", plants END, roots,0.30737340450286865,0.622280595
+6,6,6,6,"She finally reached the end of the dissertation-writing process.
+Target Domain: success
+Source Domain:", goal END, end,0.3735748827457428,0.5629680533333333
+7,7,7,7,"After working on the application for days, I finally saw the light at the end of the tunnel.
+Target Domain: success
+Source Domain:", goal END, end,0.3735748827457428,0.5629680533333333
+8,8,8,8,"He is in a difficult field.
+Target Domain: subjects
+Source Domain:", areas END, commodities,0.16937777400016785,0.480653275
+9,9,9,9,"The scientists have covered a lot of ground in the last 100 years.
+Target Domain: subjects
+Source Domain:", areas END, surfaces,0.2698685824871063,0.63985399
+10,10,10,10,"His behavior made me want to throw up.
+Target Domain: disgust
+Source Domain:", nausea END, end-state,-0.06233447417616844,0.16683067
+11,11,11,11,"He broke down in tears.
+Target Domain: emotion
+Source Domain:", object END, part-whole,0.2785160541534424,0.0
+12,12,12,12,"His mind snapped.
+Target Domain: mind
+Source Domain:", object END, body,0.3379127085208893,0.453884205
+13,13,13,13,"You have to make your own opportunities.
+Target Domain: opportunities
+Source Domain:", object END, commodities,-0.014216736890375614,0.354879152
+14,14,14,14,"A lot of factors went into creating this problem.
+Target Domain: problem
+Source Domain:", object END, entity,0.34152576327323914,0.474679485
+15,15,15,15,"I couldn't possibly repay your kindness.
+Target Domain: morality
+Source Domain:", accounting END, debt,0.29033777117729187,0.5114527675
+16,16,16,16,"Those two are really in synch.
+Target Domain: relationship
+Source Domain:", musical harmony END, body,0.1237858384847641,0.34238482
+17,17,17,17,"Her accident was an enormous setback to her career.
+Target Domain: harm
+Source Domain:", path END, injury,0.10399274528026581,0.31383116
+18,18,18,18,"He's a crooked businessman.
+Target Domain: morality
+Source Domain:", path END, alignment,0.35739079117774963,0.33922844
+19,19,19,19,"Money is the root of all evil.
+Target Domain: creation
+Source Domain:", plants END, roots,0.30737340450286865,0.622280595
+20,20,20,20,"He's a budding artist.
+Target Domain: people
+Source Domain:", plants END, plants,1.0,1.0
+21,21,21,21,"Time crept along.
+Target Domain: time
+Source Domain:", moving object END, motion,0.4523807168006897,0.0
+22,22,22,22,"Then he got ahead of schedule.
+Target Domain: schedule
+Source Domain:", moving object END, ahead,0.28295356035232544,0.0
+23,23,23,23,"He paid with his life for my mistake.
+Target Domain: causation
+Source Domain:", money END, payment,0.49546390771865845,0.465451285
+24,24,24,24,"What kind of a state was he in when you saw him?
+Target Domain: states
+Source Domain:", locations END, substance,0.021341411396861076,0.334584475
+25,25,25,25,"He embraced that belief wholeheartedly.
+Target Domain: beliefs
+Source Domain:", lovers END, parts-whole,0.15393798053264618,0.0
+26,26,26,26,"I've got my motor runnin', baby.
+Target Domain: lust
+Source Domain:", machine END, motion,0.2202901989221573,0.3748568375
+27,27,27,27,"He slipped a cog.
+Target Domain: mind
+Source Domain:", machine END, machine,0.9999999403953552,1.0
+28,28,28,28,"Her ticker is weak.
+Target Domain: people
+Source Domain:", machine END, body,0.18506883084774017,0.3812796175
+29,29,29,29,"The force of his hypnotic words had me in its grip.
+Target Domain: force
+Source Domain:", moving object END, force,0.36427491903305054,0.0
+30,30,30,30,"He slipped into a depression.
+Target Domain: change
+Source Domain:", motion END, container,0.012819613330066204,0.3843405175
+31,31,31,31,"Don't jump to conclusions.
+Target Domain: ideas
+Source Domain:", motion END, heights,0.059170644730329514,0.3664599966666667
+32,32,32,32,"The road bends.
+Target Domain: shape
+Source Domain:", motion END, arc,0.22538542747497559,0.420758205
+33,33,33,33,"You're all I've got.
+Target Domain: lover
+Source Domain:", possession END, part-whole,0.2179802805185318,0.0
+34,34,34,34,"He acquired most of his beliefs during childhood.
+Target Domain: beliefs
+Source Domain:", possessions END, possessions,1.0,1.0
+35,35,35,35,"He's on thin ice.
+Target Domain: harm
+Source Domain:", location END, thin,0.056703001260757446,0.298770605
+36,36,36,36,"The audience was bursting with laughter.
+Target Domain: laughter
+Source Domain:", substance END, bursting,0.11497317254543304,0.31834701
+37,37,37,37,"He tried to undermine her belief.
+Target Domain: beliefs
+Source Domain:", support END, possessions,0.06076797470450401,0.48089024999999996
+38,38,38,38,"He took aim at the problem.
+Target Domain: problem
+Source Domain:", target END, target,1.0000001192092896,1.0
+39,39,39,39,"I met his glance with my own.
+Target Domain: seeing
+Source Domain:", touching END, end-end part-whole,0.2390947788953781,0.0
+40,40,40,40,"Suddenly my headache vanished.
+Target Domain: existence
+Source Domain:", visibility END, substance,0.10078900307416916,0.284287835
+41,41,41,41,"We had to feel our way through the darkness.
+Target Domain: darkness
+Source Domain:", solid END, darkness,0.062304701656103134,0.38127147
+42,42,42,42,"We took over the ball deep in their territory.
+Target Domain: competition
+Source Domain:", war END, possession,0.1508539766073227,0.3460184685
+43,43,43,43,"His body was under seige by AIDS.
+Target Domain: illness
+Source Domain:", war END, under attack,0.4562164545059204,0.0
+44,44,44,44,"That was pretty cutting language.
+Target Domain: words
+Source Domain:", weapons END, part-whole,0.2613069415092468,0.0
+45,45,45,45,"The economic forecast is favorable.
+Target Domain: adversity
+Source Domain:", weather END, end-point,0.1823691874742508,0.11736045
+46,46,46,46,"He gave me a look that spoke volumes.
+Target Domain: communication
+Source Domain:", speech END, container,-0.037323638796806335,0.42189752
+47,47,47,47,"My car gave me a lot of trouble yesterday.
+Target Domain: harm
+Source Domain:", possessions END, injury,0.06351105123758316,0.4524734
+48,48,48,48,"He bears the responsibility for the success of this mission.
+Target Domain: obligations
+Source Domain:", possessions END, burdens,0.08241336792707443,0.9540967
+49,49,49,49,"He lost his tolerance for alcohol.
+Target Domain: properties
+Source Domain:", possessions END, substance,0.08555257320404053,0.40700681
+50,50,50,50,"He took all the credit.
+Target Domain: responsibilities
+Source Domain:", possessions END, possessions,1.0,1.0
+51,51,51,51,"You're moving into shark infested waters.
+Target Domain: competitors
+Source Domain:", predators END, predators,1.0000001192092896,1.0
+52,52,52,52,"If that player goes in, he'll be dead meat!
+Target Domain: harm
+Source Domain:", prey END, end,0.050608910620212555,0.34454002333333333
+53,53,53,53,"We've been playing chess for years, and he's finally pulling ahead of me.
+Target Domain: competition
+Source Domain:", race END, competition,0.3645939528942108,0.3994765
+54,54,54,54,"She was puffed up with pride.
+Target Domain: conceit
+Source Domain:", size END, puff,-0.015245412476360798,0.30153354250000003
+55,55,55,55,"Under hypnosis, the sweet old lady was replaced by a scheming criminal.
+Target Domain: change
+Source Domain:", replacement END, changer,-0.002396819181740284,0.4020419175
+56,56,56,56,"Don't waste time.
+Target Domain: time
+Source Domain:", resource END, commodities,0.2598818838596344,0.4841174466666667
+57,57,57,57,"She finally opened her eyes to what was going on around her.
+Target Domain: understanding
+Source Domain:", seeing END, opening,0.2701530456542969,0.351663575
+58,58,58,58,"I sized him up.
+Target Domain: perception
+Source Domain:", shape END, size,0.49182024598121643,0.4832862725
+59,59,59,59,"She's getting in shape.
+Target Domain: states
+Source Domain:", shapes END, shapes,0.9999999403953552,1.0
+60,60,60,60,"This adds up to trouble.
+Target Domain: thinking
+Source Domain:", accounting END, adding,0.1613112986087799,0.35722109
+61,61,61,61,"I think we're headed in the right direction.
+Target Domain: problem
+Source Domain:", location END, path,0.2733713984489441,0.36753954
+62,62,62,62,"The baby is due any day.
+Target Domain: existence
+Source Domain:", location END, container,0.2008814811706543,0.3497799025
+63,63,63,63,"Your words seem rather hollow.
+Target Domain: meaning
+Source Domain:", container END, substance,0.10205715894699097,0.41815947000000003
+64,64,64,64,"He couldn't get to first base with her.
+Target Domain: sex
+Source Domain:", competition END, end-point,0.28304433822631836,0.12990287
+65,65,65,65,"He withdraws into himself.
+Target Domain: body
+Source Domain:", container END, container,1.0,1.0
+66,66,66,66,"We're in this thing together.
+Target Domain: difficulties
+Source Domain:", container END, part-whole,0.11922906339168549,0.0
+67,67,67,67,"The bottom of the economy dropped out.
+Target Domain: investment
+Source Domain:", container END, bottom,0.19043034315109253,0.3588814475
+68,68,68,68,"Try to get out of those committments; don't let your boss box you in.
+Target Domain: obligations
+Source Domain:", container END, confinement,0.09459833800792694,0.431336345
+69,69,69,69,"The theory fit the data nicely.
+Target Domain: theories
+Source Domain:", cloth END, containers,0.2601267397403717,0.6090197
+70,70,70,70,"We're well into the century.
+Target Domain: time
+Source Domain:", container END, well,0.15929706394672394,0.386698955
+71,71,71,71,"He was enveloped in darkness.
+Target Domain: darkness
+Source Domain:", cover END, substance,0.16062188148498535,0.42649585
+72,72,72,72,"cash flow
+Target Domain: money
+Source Domain:", liquid END, flow,0.38865405321121216,0.4169090275
+73,73,73,73,"The theory was cut to pieces.
+Target Domain: harm
+Source Domain:", destruction END, part-whole,0.304773211479187,0.0
+74,74,74,74,"She was so angry she couldn't see straight.
+Target Domain: strong emotion
+Source Domain:", blindness END, strong,-0.0308334119617939,0.352146935
+75,75,75,75,"The club seems dead tonight
+Target Domain: active
+Source Domain:", alive END, alive,1.0,1.0
+76,76,76,76,"She was energized by the applause.
+Target Domain: people
+Source Domain:", batteries END, energy,0.20491951704025269,0.40108355500000004
+77,77,77,77,"It's in the palm of my hand.
+Target Domain: mind
+Source Domain:", body END, body,0.9999998807907104,1.0
+78,78,78,78,"The murky waters of the investigation frustrated him.
+Target Domain: problem
+Source Domain:", body of water END, substance,0.3510974943637848,0.3161813975
+79,79,79,79,"What is central here?
+Target Domain: importance
+Source Domain:", centrality END, center,-0.007385178469121456,0.35008573666666665
+80,80,80,80,"His girlfriends keep getting taller.
+Target Domain: disparity
+Source Domain:", change END, up-down,0.40019628405570984,0.0
+81,81,81,81,"I thought you were going to take care of that problem.
+Target Domain: obligations
+Source Domain:", children END, commodities,0.058533038944005966,0.45972945333333337
+82,82,82,82,"He needs some direction.
+Target Domain: purpose
+Source Domain:", direction END, line,0.3443557918071747,0.4198290375
+83,83,83,83,"Put on a happy face.
+Target Domain: facial expression
+Source Domain:", cover END, emotion,0.05939874425530434,0.3693894725
+84,84,84,84,"He's barely staying afloat.
+Target Domain: defeat
+Source Domain:", drowning END, float,0.12131678313016891,0.36255703333333333
+85,85,85,85,"He felt uprooted.
+Target Domain: emotion stability
+Source Domain:", grounding END, roots,0.08031518012285233,0.44322486666666666
+86,86,86,86,"He can always shed light on the problem.
+Target Domain: intelligence
+Source Domain:", light END, changer,-0.04227377101778984,0.3391510575
+87,87,87,87,"He has bright hopes.
+Target Domain: hope
+Source Domain:", light END, light,1.0,1.0
+88,88,88,88,"He's long on good looks.
+Target Domain: amount
+Source Domain:", length END, length,1.0,1.0
+89,89,89,89,"Thanksgiving is looming on the horizen.
+Target Domain: time
+Source Domain:", landscape END, size,0.19044353067874908,0.4152410575
+90,90,90,90,"This relationship has been spinning its wheels for years.
+Target Domain: love
+Source Domain:", journey END, wheel,0.1757168471813202,0.3874644725
+91,91,91,91,"He just sails through life.
+Target Domain: life
+Source Domain:", journey END, vessel,0.24752774834632874,0.39292346499999997
+92,92,92,92,"I'm just wild about Harry.
+Target Domain: love
+Source Domain:", insanity END, wild,-0.02292974852025509,0.441503115
+93,93,93,93,"She thirsts for recognition.
+Target Domain: desire
+Source Domain:", hunger END, thirst,0.5480709671974182,0.6385565166666667
+94,94,94,94,"He's just blowing off steam.
+Target Domain: anger
+Source Domain:", heat END, substance,0.2329052984714508,0.4254766575
+95,95,95,95,"There are misleading beliefs.
+Target Domain: beliefs
+Source Domain:", guides END, commodities,0.00765518844127655,0.5501325533333333
+96,96,96,96,"He's headed for an early death.
+Target Domain: final state
+Source Domain:", goal END, end-state,0.3507539629936218,0.25509828
+97,97,97,97,"I was pushed into depression.
+Target Domain: emotion
+Source Domain:", force END, motion,0.2571427822113037,0.40591289249999996
+98,98,98,98,"I beat him at chess.
+Target Domain: competition
+Source Domain:", fight END, competition,0.30469098687171936,0.557916405
+99,99,99,99,"He soaked up some sun.
+Target Domain: light
+Source Domain:", fluid END, liquid,0.5092668533325195,0.5772918875
+100,100,100,100,"Let me chew on that for a while.
+Target Domain: ideas
+Source Domain:", food END, commodities,0.34251198172569275,0.3971874733333333
+101,101,101,101,"Something in me pulls me toward the wrong kind of man.
+Target Domain: desire
+Source Domain:", force END, pull,0.3909898102283478,0.3805258075
+102,102,102,102,"I read more into his actions than actually was there.
+Target Domain: communication
+Source Domain:", writing END, substance,0.17713993787765503,0.38335437250000004
+103,103,103,103,"She could bend his will.
+Target Domain: influence
+Source Domain:", force END, bend,0.14660577476024628,0.3017282175
+104,104,104,104,"Finally, all my educational goals are in reach.
+Target Domain: end of action
+Source Domain:", goal END, end of container,0.3117329776287079,0.0
+105,105,105,105,"Well you just go to the front entrance
+Target Domain: entrance
+Source Domain:", not metaphoric END, end,0.2517378330230713,0.0
+106,106,106,106,"When he was little he was sat in his buggy.
+Target Domain: sitting
+Source Domain:", not metaphoric END, end-point,0.300943523645401,0.0
+107,107,107,107,"Yeah I know.
+Target Domain: knowing
+Source Domain:", not metaphoric END, knowing,0.39101648330688477,0.0
+108,108,108,108,"Then I do normally watch it with you.
+Target Domain: watching
+Source Domain:", not metaphoric END, body part,0.2945709526538849,0.0
+109,109,109,109,"When did you eat when did you eat your chips?
+Target Domain: eating
+Source Domain:", not metaphoric END, time,0.2975147068500519,0.0
+110,110,110,110,"We have seen Brittany.
+Target Domain: seeing
+Source Domain:", not metaphoric END, having,0.35184410214424133,0.0
+111,111,111,111,"Some else is sitting at their desk?
+Target Domain: desk
+Source Domain:", not metaphoric END, seat,0.1223735511302948,0.0
+112,112,112,112,"Where do you get your carrots from?
+Target Domain: getting
+Source Domain:", not metaphoric END, obtaining,0.1454508900642395,0.0
+113,113,113,113,"But the upstairs one that is the kitchen is a bit smaller.
+Target Domain: rooms
+Source Domain:", not metaphoric END, sizes,0.09687238186597824,0.0
+114,114,114,114,"Old men remembering their youth.
+Target Domain: youth
+Source Domain:", not metaphoric END, age,0.1695571392774582,0.0
+115,115,115,115,"We are trying to find our missing scientist now.
+Target Domain: missing 
+Source Domain:", not metaphoric END, absent,0.21436886489391327,0.0
+116,116,116,116,"The doorbell sounded.
+Target Domain: bells 
+Source Domain:", not metaphoric END, end-points,0.17158369719982147,0.0
+117,117,117,117,"Four hours of instruction a day for two weeks.
+Target Domain: time 
+Source Domain:", not metaphoric END, length,0.2322828471660614,0.0
+118,118,118,118,"The inspector was not listening.
+Target Domain: listening
+Source Domain:", not metaphoric END, paying-attention,0.25224220752716064,0.0
+119,119,119,119,"He had not prayed for Ann Maguire.
+Target Domain: belief
+Source Domain:", not metaphoric END, domain,0.18252378702163696,0.0
