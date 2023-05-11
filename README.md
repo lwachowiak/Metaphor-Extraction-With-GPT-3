@@ -11,5 +11,5 @@ Conceptual metaphors present a powerful cognitive vehicle to transfer knowledge 
 ## How to Use
 
 - The important code for repeating the experiments can be found in the notebook [analysis.ipynb](https://github.com/lwachowiak/Metaphor-Extraction-With-GPT-3/blob/main/analysis.ipynb)
-- Data for prompting and fine-tuning can be found in the [https://github.com/lwachowiak/Metaphor-Extraction-With-GPT-3/tree/main/Data](Data) folder. The folder does not contain the LCC corpus due to licensing. 
+- Data for prompting and fine-tuning can be found in the [Data](https://github.com/lwachowiak/Metaphor-Extraction-With-GPT-3/tree/main/Data) folder. The folder does not contain the LCC corpus due to licensing. 
 - Annotations made through GPT-3 can be found in the [Source Completion](https://github.com/lwachowiak/Metaphor-Extraction-With-GPT-3/tree/main/Validation%20Results/Source%20Completion) Folder
