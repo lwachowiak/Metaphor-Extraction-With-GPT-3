@@ -3,3 +3,4 @@ Data/LCC_Metaphor_Dataset.small/*
 wandb/*
 Images/*
 Test Results/Source Completion/FewShot(old)/*
+analysis(private).ipynb
