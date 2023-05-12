@@ -4,3 +4,4 @@ wandb/*
 Images/*
 Test Results/Source Completion/FewShot(old)/*
 analysis(private).ipynb
+Data/crawled_metaphors_all(private).csv
