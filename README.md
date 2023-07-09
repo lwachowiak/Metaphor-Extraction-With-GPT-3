@@ -2,14 +2,14 @@
 
 ## Reference
 
-[PDF]()
+[PDF (forthcoming)]()
 
-[Video]()
+[Video Presentation](https://youtu.be/TaReifZ5gy4)
   
 >@inproceedings{wachowiak2023metaphor,  
 >  title={{Does GPT-3 Grasp Metaphors? Identifying Metaphor Mappings with Generative Language Models}},   
 >  author={Wachowiak, Lennart and Gromann, Dagmar},  
->  booktitle={Proceedings of the 61th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},  
+>  booktitle={Proceedings of the 61th Annual Meeting of the Association for Computational Linguistics (Long Papers)},  
 >  year={2023}
 >}
 
