@@ -2,7 +2,7 @@
 
 ## Reference
 
-[PDF (forthcoming)]()
+[PDF](https://aclanthology.org/2023.acl-long.58/)
 
 [Video Presentation](https://youtu.be/TaReifZ5gy4)
   
